@@ -1,0 +1,10 @@
+<a onClick="changeLanguage()" class="language-selector">Versione in italiano</a>
+
+
+<script>
+    function changeLanguage() {
+        var url = window.location.href.replace('/en/', '/it/');
+        window.location.href = url;
+    }
+</script>
+</body>

@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Docs
+tagline:             Getting started with Odds&More Ibrid
+description:         Docs
+url:                 https://shops-staging-2393e.web.app/
+baseurl:             ''
+paginate:            5
+# gitPages: baseurl:             '/shops'
+# localhost: baseurl:             ''
+# About/contact
+author:
+  name:              Odds&More
+  url:               https://www.oddsandmore.com
+  email:             info@oddsandmore.com
+
+# Custom vars
+version:             0.0.1

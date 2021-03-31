@@ -1,0 +1,9 @@
+version: '2'
+services:
+  jekyll:
+    image: jekyll/jekyll:3.5
+    volumes:
+      - /Users/alessandrodonateo/dev/oam/docs/docs:/srv/jekyll
+    ports:
+      - 3000:4000
+    command: bash -c "jekyll serve --watch --drafts"
