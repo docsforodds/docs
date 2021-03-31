@@ -21,7 +21,7 @@ Wait the container has fineshed to download all gem packages. It can take up to 
     
 The website is available here
 
-    http://localhost:3000
+    http://localhost:3000/oam-docs/
 
 
 After the wait if you still have problem to see  try  to run a second command.
@@ -75,3 +75,4 @@ Reference:
 - [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 - [Icon reference](https://fontawesome.com/icons?d=gallery&p=2)
 - [Jexyll configuration](https://jekyllrb.com/docs/configuration/)
+- [public link of this web site](https://donateoa.github.io/oam-docs/)

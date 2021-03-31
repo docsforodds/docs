@@ -8,7 +8,7 @@ title:               Docs
 tagline:             Getting started with Odds&More Ibrid
 description:         Docs
 url:                 https://shops-staging-2393e.web.app/
-baseurl:             ''
+baseurl:             '/oam-docs'
 paginate:            5
 # gitPages: baseurl:             '/shops'
 # localhost: baseurl:             ''
