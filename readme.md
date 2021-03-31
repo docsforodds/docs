@@ -26,6 +26,8 @@ The website is available here
 
 After the wait if you still have problem to see  try  to run a second command.
 
+The first time you start the application run the following command.
+
      docker-compose -f jekyll/docker-compose.yml run jekyll  jekyll build --watch
 
 ## Deploy
@@ -60,7 +62,7 @@ Let's say you want create a new page named "Page 1" into the section name "Secti
     1. Head
         1. title: `Page 1`
         2. sort: type a number that is the order you want to give to this page in the section
-        3. category: `section`
+        3. category: `Section`
     2. Content: write the content for the page
 
 here is an example of paeg1.md page for a page

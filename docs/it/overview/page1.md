@@ -1,21 +1,21 @@
 ---
 layout: it
-title: Pagina 1
-sort: 1
+title: Pagina di test
+sort: 3
 category: Overview
-icon: far fa-plus-square
+icon: far fa-credit-card
 ---
 <p class="message">
-   Messaggio
+   Questa è una pagina di test
 </p>
 
-# Titolo.
+# Test.
 ## Titolo 2.
 ### Titolo 3.
 
-Test
+blablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla
 
-- Lista
-- Lista
+- Lista 1
+- Lista2
 
 > Nota
