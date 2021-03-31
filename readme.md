@@ -7,12 +7,12 @@ This web site is done by jekyll.
 
 Get source code from repository
 ```
-git clone https://github.com/donateoa/shops.git;
+git clone https://github.com/donateoa/oam-docs.git
 
 ```
 swtich into project root
 
-    cd docs
+    cd oam-docs
     docker-compose -f jekyll/docker-compose.yml up
 
 Wait the container has fineshed to download all gem packages. It can take up to 20 minutes. You can see in the console the message
@@ -76,3 +76,4 @@ Reference:
 - [Icon reference](https://fontawesome.com/icons?d=gallery&p=2)
 - [Jexyll configuration](https://jekyllrb.com/docs/configuration/)
 - [public link of this web site](https://donateoa.github.io/oam-docs/)
+- [Docker download](https://docs.docker.com/docker-for-mac/install/)
