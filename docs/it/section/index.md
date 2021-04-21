@@ -9,7 +9,7 @@ icon: fas fa-magic
    Messaggio
 </p>
 
-# Titolo.
+# Manuale
 ## Titolo 2.
 ### Titolo 3.
 
