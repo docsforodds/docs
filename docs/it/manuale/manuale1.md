@@ -3,7 +3,7 @@ layout: it
 title: Manuale 1
 sort: 1
 category: Manuale
-icon: fab fa-accusoft
+icon: fas fa-book-reader
 ---
 <p class="message">
    Manuale 1 prova di testo con MAria teresa
