@@ -11,7 +11,9 @@ icon: fab fa-adn
 
 # Titolo.
 ## Titolo 2.
-### La pagina iniziale è composta da tre parti: 
+### 
+
+La pagina iniziale è composta da tre parti: 
 
 Barra menu;
 
