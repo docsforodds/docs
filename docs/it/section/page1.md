@@ -6,10 +6,10 @@ category: Sezione
 icon: fab fa-firstdraft
 ---
 <p class="message">
-    
+    1.1 Struttura base
 </p>
 
-<h4>1.1  Struttura base</h4>
+
 
 La pagina iniziale è composta da tre parti: 
 
