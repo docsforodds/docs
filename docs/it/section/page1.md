@@ -11,7 +11,13 @@ icon: fab fa-adn
 
 # Titolo.
 ## Titolo 2.
-### Titolo 3.
+### La pagina iniziale è composta da tre parti: 
+
+Barra menu;
+
+Informazioni Utente;
+
+Albero di navigazione Sport>Category>Tournament;
 
 Test
 
