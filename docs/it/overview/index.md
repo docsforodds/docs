@@ -1,9 +1,9 @@
 ---
 layout: it
-title: Overview 
+title: Panoramica 
 sort: 1
 category: main
-icon: fas fa-magic
+icon: fas fa-list-alt
 ---
 <p class="message">
    Messaggio
