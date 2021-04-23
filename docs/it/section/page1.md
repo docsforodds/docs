@@ -9,9 +9,6 @@ icon: fab fa-adn
     1.1  Struttura base
 </p>
 
-# Titolo.
-## Titolo 2.
-### 
 
 La pagina iniziale è composta da tre parti: 
 
