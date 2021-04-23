@@ -6,7 +6,7 @@ category: Sezione
 icon: fab fa-adn
 ---
 <p class="message">
-   Messaggio
+    1.1  Struttura base
 </p>
 
 # Titolo.
