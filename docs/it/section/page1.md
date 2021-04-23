@@ -9,7 +9,7 @@ icon: fab fa-firstdraft
     
 </p>
 
-<h4>1.1  Struttura base 4</h4>
+<h4>1.1  Struttura base</h4>
 
 La pagina iniziale è composta da tre parti: 
 
