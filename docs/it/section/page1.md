@@ -3,7 +3,7 @@ layout: it
 title: Introduzione
 sort: 1
 category: Sezione
-icon: fab fa-firstdraft
+icon: fas fa-circle
 ---
 <p class="message">
     
