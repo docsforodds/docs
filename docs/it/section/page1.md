@@ -3,7 +3,7 @@ layout: it
 title: Introduzione
 sort: 1
 category: Sezione
-icon: fab fa-adn
+icon: fab fa-firstdraft
 ---
 <p class="message">
     1.1  Struttura base
