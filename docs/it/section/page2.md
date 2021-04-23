@@ -1,9 +1,9 @@
 ---
 layout: it
-title: Pagina 2
+title: Eventi
 sort: 2
 category: Sezione
-icon: far fa-plus-square
+icon: fas fa-circle
 ---
 <p class="message">
    Messaggio
