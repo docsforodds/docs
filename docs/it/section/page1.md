@@ -1,6 +1,6 @@
 ---
 layout: it
-title: Pagina 1
+title: Introduzione
 sort: 1
 category: Sezione
 icon: fab fa-adn
