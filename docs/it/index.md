@@ -9,16 +9,6 @@ category: main
 
 </p>
 
-# Manuale prova git
-## Titolo 2.
-### Titolo 3.
-
-Test
-
-- Lista
-- Lista
-
-> Nota
 
 ## Riepilogo
 
@@ -34,4 +24,3 @@ Test
     {% endif %}
     {% endfor %}
 
-Grazie per aver letto!

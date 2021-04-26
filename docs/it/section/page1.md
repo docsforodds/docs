@@ -2,7 +2,7 @@
 layout: it
 title: Introduzione
 sort: 1
-category: Sezione
+category: Section
 icon: fas fa-circle
 ---
 <p class="message">
