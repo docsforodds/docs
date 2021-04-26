@@ -1,21 +1,24 @@
 ---
 layout: it
-title: Pagina 2
+title: 2. Eventi
 sort: 2
-category: Overview
+category: main
 icon: far fa-plus-square
 ---
 <p class="message">
    Messaggio
 </p>
 
-# Titolo.
-## Titolo 2.
-### Titolo 3.
 
-Test
+<font size="3">Una volta aver selezionato il torneo dall’albero di navigazione, sarà possibile visualizzare gli eventi relativi a quel torneo sulla destra, per cui saranno visibili i seguenti dati:</font>
 
-- Lista
-- Lista
+Nome del torneo;
 
-> Nota
+Data e ora dell’evento;
+
+ID partita;
+
+Nome dell’evento;
+
+Opzione della ricerca di partite all’interno del torneo selezionato;
+

@@ -1,15 +1,14 @@
 ---
 layout: it
-title: Panoramica 
+title: Panoramica
 sort: 1
 category: main
-icon: fas fa-list-alt
+icon: fas fa-circle
 ---
 <p class="message">
    Messaggio
 </p>
 
-<a name="paragraph1"></a>
 
 # Riepilogo
   {% assign pages_list = site.pages | sort:"sort" %}

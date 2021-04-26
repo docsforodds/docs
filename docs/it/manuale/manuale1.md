@@ -1,14 +1,19 @@
 ---
 layout: it
-title: Manuale 1
+title: 1.1 Struttura base
 sort: 1
-category: Manuale
+category: Main
 icon: fas fa-book-reader
 ---
 <p class="message">
-   Manuale 1 prova di testo con MAria teresa
+1.1 Struttura base
 </p>
 
-Prova
-# Testo di titolo.
+La pagina iniziale è composta da tre parti:
+Barra menu;
+
+Informazioni Utente;
+
+Albero di navigazione Sport>Category>Tournament;
+
 > Nota

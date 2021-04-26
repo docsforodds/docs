@@ -1,8 +1,8 @@
 ---
 layout: it
-title: Introduzione
+title: 1.Introduzione
 sort: 1
-category: Section
+category: main
 icon: fas fa-circle
 ---
 <p class="message">
