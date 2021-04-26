@@ -1,6 +1,6 @@
 ---
 layout: it
-title: Sezione 
+title: section
 sort: 2
 category: main
 icon: fas fa-magic
