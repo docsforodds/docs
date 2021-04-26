@@ -9,16 +9,7 @@ icon: fas fa-list-alt
    Messaggio
 </p>
 
-# Titolo.
-## Titolo 2.
-### Titolo 3.
-
-Test
-
-- Lista
-- Lista
-
-> Nota
+<a name="paragraph1"></a>
 
 # Riepilogo
   {% assign pages_list = site.pages | sort:"sort" %}
@@ -32,3 +23,17 @@ Test
     {% endif %}
     {% endif %}
     {% endfor %}
+
+    {% assign pages_list = site.pages | sort:"sort" %}
+    {% for node in pages_list %}
+    {% if node.title != null %}
+    {% if node.layout == "it" %}
+    {% if node.category == "Overview" %}
+   * <a class="link-detail"
+      href="{{site.baseurl}}{{ node.url }}">{{ node.title }}</a>
+    {% endif %}
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+
+    
