@@ -3,7 +3,7 @@ layout: it
 title: 1.Introduzione
 sort: 2
 category: main
-icon: fas fa-circle
+icon: fas fa-adjust
 ---
 <p class="message">
     
@@ -12,11 +12,11 @@ icon: fas fa-circle
 
 <font size="3">La pagina iniziale è composta da tre parti:</font>
 
-- Barra menu;
+- <font size="3">Barra menu;</font>
 
-- Informazioni Utente;
+- <font size="3">Informazioni Utente;</font>
 
-- Albero di navigazione Sport>Category>Tournament;
+- <font size="3">Albero di navigazione Sport>Category>Tournament;</font>
 
 
 
@@ -31,6 +31,5 @@ icon: fas fa-circle
 
 
 
-- Lista
-- Lista
+
 
