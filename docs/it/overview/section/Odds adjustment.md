@@ -11,6 +11,7 @@ icon: fas fa-circle
 
  <font size="3">All' interno del Tool è presente una funzionalità chiamata “Odds Adjustment” con la quale è possibile effettuare un cambio quota, modificandola di una certa percentuale. Una volta aver selezionato l 'evento desiderato dalla home del tool, occorre cliccare sui tre puntini situati in alto a destra della pagina, come mostrato qui di seguito.<font>
 
+![Markdown Plus](http://10.10.3.166/images/b/b4/Oam-tool-acfiorentina-odds-ajdustment.png)
 
 <font size="3">Successivamente occorre cliccare su “Odds Adjustment” in modo tale da poter visualizzare la finestra all’interno della quale sarà possibile modificare la quota.
 
