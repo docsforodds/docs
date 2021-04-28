@@ -11,19 +11,8 @@ icon: fas fa-circle
 
  <font size="3">All' interno del Tool è presente una funzionalità chiamata “Odds Adjustment” con la quale è possibile effettuare un cambio quota, modificandola di una certa percentuale. Una volta aver selezionato l 'evento desiderato dalla home del tool, occorre cliccare sui tre puntini situati in alto a destra della pagina, come mostrato qui di seguito.<font>
 
+
+
 ![Markdown Plus](http://10.10.3.166/images/b/b4/Oam-tool-acfiorentina-odds-ajdustment.png)
-
-<font size="3">Successivamente occorre cliccare su “Odds Adjustment” in modo tale da poter visualizzare la finestra all’interno della quale sarà possibile modificare la quota.
-
-
-<font size="3">All’interno di questa finestra è possibile selezionare la quota desiderata da modificare. Al fine di effettuare questa modifica, l’utente potrà prendere in considerazione differenti quote tra cui:
-
-Inherited: le quote ereditate dalla categoria dell’evento in questione;
-None: non prendendo in considerazione alcuna quota;
-Favourite: le quote relative alla favorita;
-Underdog: le quote relative alla sfavorita;
-1x2: è possibile prendere in considerazione o il segno 1 o il segno x o il segno 2;
-Una volta aver selezionato l' Outcome desiderato, occorre impostare il valore in percentuale che si vorrebbe applicare. Successivamente sarà possibile decidere anche se utilizzare lo stesso Margine oppure no, per cui a seconda di quello che desidera l’utente, occorre selezionare o meno la spunta situata accanto a “Keep margin”. Un’altra funzionalità riguarda la possibilità di poter modificare di conseguenza anche le quote derivate e per fare ciò occorre inserire la spunta accanto a “Affect calculations”. In caso contrario si può eliminare la spunta dalla stessa. Per salvare le modifiche effettuate, bisogna cliccare sul tasto “Save”.<font>
-
 
 
