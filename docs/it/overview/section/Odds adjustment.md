@@ -1,0 +1,36 @@
+---
+layout: it
+title: 3.4 Odds Adjustment
+sort: 7
+category: main
+icon: fas fa-circle
+---
+<p class="message">
+    
+</p>
+
+ <font size="3">Successivamente occorre cliccare su “Odds Adjustment” in modo tale da poter visualizzare la finestra all’interno della quale sarà possibile modificare la quota.
+
+
+All’interno di questa finestra è possibile selezionare la quota desiderata da modificare. Al fine di effettuare questa modifica, l’utente potrà prendere in considerazione differenti quote tra cui:
+
+Inherited: le quote ereditate dalla categoria dell’evento in questione;
+
+None: non prendendo in considerazione alcuna quota;
+
+Favourite: le quote relative alla favorita;
+
+Underdog: le quote relative alla sfavorita;
+
+1x2: è possibile prendere in considerazione o il segno 1 o il segno x o il segno 2;
+
+
+ 
+
+Una volta aver selezionato l' Outcome desiderato, occorre impostare il valore in percentuale che si vorrebbe applicare. Successivamente sarà possibile decidere anche se utilizzare lo stesso Margine oppure no, per cui a seconda di quello che desidera l’utente, occorre selezionare o meno la spunta situata accanto a “Keep margin”. Un’altra funzionalità riguarda la possibilità di poter modificare di conseguenza anche le quote derivate e per fare ciò occorre inserire la spunta accanto a “Affect calculations”. In caso contrario si può eliminare la spunta dalla stessa. Per salvare le modifiche effettuate, bisogna cliccare sul tasto “Save”.</font>
+
+
+
+
+
+

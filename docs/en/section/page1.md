@@ -3,7 +3,7 @@ layout: en
 title: Page 1
 sort: 1
 category: Section
-icon: fab fa-adn
+icon: fas fa-book-reader
 ---
 <p class="message">
    Messaggio

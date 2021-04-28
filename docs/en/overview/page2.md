@@ -3,7 +3,7 @@ layout: en
 title: Page 2
 sort: 2
 category: Overview
-icon: far fa-plus-square
+icon: fas fa-adjust
 ---
 <p class="message">
    Messages
