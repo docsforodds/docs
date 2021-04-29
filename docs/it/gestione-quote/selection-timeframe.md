@@ -1,8 +1,8 @@
 ---
 layout: it
-title: 3.7 Marginset/Selection Timeframe
-sort: 10
-category: main
+title: Marginset/Selection Timeframe
+sort: 7
+category: Quote base
 icon: fas fa-book-reader
 ---
 <p class="message">

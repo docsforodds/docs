@@ -1,8 +1,8 @@
 ---
 layout: it
-title: 3.3 Calcolo
-sort: 6
-category: main
+title: Calcolo
+sort: 3
+category: Quote base
 icon: far fa-plus-square
 ---
 <p class="message">

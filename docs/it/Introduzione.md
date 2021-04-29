@@ -1,6 +1,6 @@
 ---
 layout: it
-title: 1.Introduzione
+title: Introduzione
 sort: 1
 category: main
 icon: fas fa-adjust

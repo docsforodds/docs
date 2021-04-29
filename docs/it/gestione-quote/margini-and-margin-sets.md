@@ -1,8 +1,8 @@
 ---
 layout: it
-title: 3.6 Margini and Margin sets
-sort: 9
-category: main
+title: Margini and Margin sets
+sort: 6
+category: Quote base
 icon: fas fa-book-reader
 ---
 <p class="message">

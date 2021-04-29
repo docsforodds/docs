@@ -1,8 +1,8 @@
 ---
 layout: it
-title: 3.8 Schede Quote
-sort: 11
-category: main
+title: Schede Quote
+sort: 8
+category: Quote base
 icon: fas fa-book-reader
 ---
 <p class="message">

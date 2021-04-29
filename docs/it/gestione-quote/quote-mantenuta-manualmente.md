@@ -1,8 +1,8 @@
 ---
 layout: it
-title: 3.1 Quote mantenute manualmente
-sort: 4
-category: main
+title: Quote mantenute manualmente
+sort: 1
+category: Quote base
 icon: fas fa-circle
 ---
 <p class="message">

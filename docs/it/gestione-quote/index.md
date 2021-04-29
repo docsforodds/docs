@@ -1,6 +1,6 @@
 ---
 layout: it
-title: 3.Quote base
+title: Quote base
 sort: 3
 category: main
 icon: fas fa-circle
@@ -18,3 +18,19 @@ icon: fas fa-circle
 ---
 
 ![Markdown Plus](http://10.10.3.166/images/f/fd/Oam-tool-quote-base.png)
+
+
+
+## Contenuti di questa sezione
+
+{% assign pages_list = site.pages | sort:"sort" %}
+    {% for node in pages_list %}
+    {% if node.title != null %}
+    {% if node.layout == "it" %}
+    {% if node.category == "Quote base" %}
+  * <a class="link-detail"
+      href="{{site.baseurl}}{{ node.url }}">{{ node.title }}</a>
+    {% endif %}
+    {% endif %}
+    {% endif %}
+    {% endfor %}

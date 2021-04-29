@@ -1,8 +1,8 @@
 ---
 layout: it
-title: 3.2 Logs
-sort: 5
-category: main
+title: Logs
+sort: 2
+category: Quote base
 icon: fas fa-circle
 ---
 <p class="message">

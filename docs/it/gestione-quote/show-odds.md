@@ -1,8 +1,8 @@
 ---
 layout: it
-title: 3.5 Show Odds
-sort: 8
-category: main
+title: Show Odds
+sort: 5
+category: Quote base
 icon: fas fa-circle
 ---
 <p class="message">
