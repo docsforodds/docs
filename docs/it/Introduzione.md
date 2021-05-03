@@ -18,7 +18,7 @@ icon: fas fa-adjust
 
 - <font size="3">Albero di navigazione Sport>Category>Tournament;</font>
 ---
-![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/Oam-tool-acfiorentina-odds-ajdustment.png)
+
 
 <p class="message">
   
