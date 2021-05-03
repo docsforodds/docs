@@ -3,7 +3,7 @@ layout: it
 title: Calcolo
 sort: 3
 category: Quote base
-icon: far fa-plus-square
+icon: fas fa-circle
 ---
 <p class="message">
     
