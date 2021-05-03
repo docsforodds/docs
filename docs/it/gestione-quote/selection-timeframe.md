@@ -3,7 +3,7 @@ layout: it
 title: Marginset/Selection Timeframe
 sort: 7
 category: Quote base
-icon: fas fa-book-reader
+icon: fas fa-circle
 ---
 <p class="message">
 
