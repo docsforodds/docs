@@ -3,7 +3,7 @@ layout: it
 title: Margini and Margin sets
 sort: 6
 category: Quote base
-icon: fas fa-book-reader
+icon: fas fa-circle
 ---
 <p class="message">
 
