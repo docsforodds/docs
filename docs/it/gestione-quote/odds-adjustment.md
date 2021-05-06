@@ -21,6 +21,10 @@ icon: fas fa-circle
 
 ---
 
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/Oam-tool-acfiorentina-odds-adjustment-2.png)
+
+
+
 <font size="3">All’interno di questa finestra è possibile selezionare la quota desiderata da modificare. Al fine di effettuare questa modifica, l’utente potrà prendere in considerazione differenti quote tra cui:</font>
 
 --- 
