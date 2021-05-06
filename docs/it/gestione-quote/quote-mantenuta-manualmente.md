@@ -14,6 +14,7 @@ icon: fas fa-circle
 ---
 
 ![Markdown Plus]({{site.baseurl}}/public/images/Oam-tool-odds-view.png)
+
 ---
 
  <font size="3">Per poter visualizzare la lista degli eventi con i mercati modificati manualmente, occorre posizionarsi sulla barra del menu e selezionare “View” > “Manually Adjusted Odds”. In questo modo si aprirà una schermata nella quale sarà possibile visualizzare i mercati in questione. Inoltre, si potrà effettuare la ricerca inserendo la data, lo sport e la categoria desiderata.</font>
