@@ -16,9 +16,9 @@ icon: fas fa-circle
  <font size="3">Successivamente occorre cliccare su “Odds Adjustment” in modo tale da poter visualizzare la finestra all’interno della quale sarà possibile modificare la quota.</font> 
 
 ---
-![Markdown Plus](http://10.10.3.166/images/1/1e/Oam-tool-odds-adjustment.png)
+![Markdown Plus]({{site.baseurl}}/public/images/Oam-tool-quote-manuali.png)
 
-![Markdown Plus](http://10.10.3.166/images/8/86/Oam-tool-acfiorentina-odds-adjustment-2.png)
+![Markdown Plus]({{site.baseurl}}/Oam-tool-quote-manuali.png
 
 ---
 
