@@ -19,7 +19,7 @@ icon: fas fa-circle
  <font size="3">Per poter visualizzare la lista degli eventi con i mercati modificati manualmente, occorre posizionarsi sulla barra del menu e selezionare “View” > “Manually Adjusted Odds”. In questo modo si aprirà una schermata nella quale sarà possibile visualizzare i mercati in questione. Inoltre, si potrà effettuare la ricerca inserendo la data, lo sport e la categoria desiderata.</font>
 
  ---
-![Markdown Plus](http://10.10.3.166/images/9/96/Oam-tool-manually-adjusted-odds-with-alerts.png)
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/Oam-tool-manually-adjusted-odds-withalerts.png)
 
 <font size="3">Cliccando sull’evento, sarà possibile visualizzare le quote modificate manualmente e le quote aggiornate provenienti dal feed.</font>
 
