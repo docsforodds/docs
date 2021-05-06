@@ -16,7 +16,7 @@ icon: fas fa-circle
  <font size="3">Successivamente occorre cliccare su “Odds Adjustment” in modo tale da poter visualizzare la finestra all’interno della quale sarà possibile modificare la quota.</font> 
 
 ---
-![Markdown Plus]({{site.baseurl}}/public/images/Oam-tool-quote-manuali.png)
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/Oam-tool-quote-manuali.png)
 
 ![Markdown Plus]({{site.baseurl}}/Oam-tool-quote-manuali.png
 
