@@ -18,7 +18,6 @@ icon: fas fa-circle
 ---
 ![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/Oam-tool-quote-manuali.png)
 
-![Markdown Plus]({{site.baseurl}}/Oam-tool-quote-manuali.png
 
 ---
 
