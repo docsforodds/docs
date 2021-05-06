@@ -1,6 +1,6 @@
 ---
 layout: it
-title: Informazione quote
+title: Informazione mercato
 sort: 9
 category: Quote base
 icon: fas fa-circle
