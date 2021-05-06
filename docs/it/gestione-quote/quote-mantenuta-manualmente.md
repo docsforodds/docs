@@ -13,7 +13,7 @@ icon: fas fa-circle
 
 ---
 
-![Markdown Plus]({{site.baseurl}}/public/images/Oam-tool-odds-view.png)
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/Oam-tool-odds-view.png)
 
 ---
 
