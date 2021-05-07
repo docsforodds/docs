@@ -1,8 +1,8 @@
 ---
 layout: it
 title: Esportazione
-sort: 13
-category: Quote base
+sort: 2
+category: Selection
 icon: fas fa-circle
 ---
 <p class="message">
