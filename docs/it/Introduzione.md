@@ -18,7 +18,7 @@ icon: fas fa-adjust
 
 - <font size="3">Albero di navigazione Sport>Category>Tournament;</font>
 ---
-![Markdown Plus]({{site.baseurl}}/public/images/Home_Tool.png)
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/Home_Tool.png)
 
 <p class="message">
   
