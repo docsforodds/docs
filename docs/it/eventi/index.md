@@ -26,4 +26,4 @@ icon: far fa-plus-square
 
 ---
 
-![Markdown Plus](http://10.10.3.166/images/d/d9/Oam-tool-events.png)
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/home-tool-part-2.png)
