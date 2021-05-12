@@ -1,7 +1,7 @@
 ---
 layout: it
 title: Selection
-sort: 1
+sort: 4
 category: main
 icon: fas fa-circle
 ---
