@@ -30,6 +30,8 @@ icon: fas fa-adjust
 
 ![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/home-tool-part-2.png)
 
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/home-tool-part-2.png)
+
 
 
 
