@@ -22,3 +22,4 @@ icon: far fa-plus-square
 
 ---
 
+![Markdown Plus]({{site.baseurl}}/public/images/risultati/Oam-tool-results.png)
