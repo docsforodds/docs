@@ -1,6 +1,6 @@
 ---
 layout: it
-title: Show results
+title: Show Results
 sort: 2
 category: Risultati
 icon: fas fa-circle
