@@ -14,3 +14,4 @@ icon: far fa-plus-square
 <font size="3">All’interno del Tool è possibile visualizzare i risultati relativi agli eventi. Per visualizzarli occorre accedere all’interno della Home e cliccare su “Results”. In questo modo si aprirà la pagina con la lista di tutti gli sport, scritti in verde, con le relative categorie, tornei e partite.</font> 
 
 ---
+![Markdown Plus]({{site.baseurl}}/public/images/risultati/Oam-tool-results.png)
