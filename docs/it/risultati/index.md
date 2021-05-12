@@ -1,7 +1,7 @@
 ---
 layout: it
 title: Risultati
-sort: 1
+sort: 5
 category: main
 icon: far fa-plus-square
 ---
