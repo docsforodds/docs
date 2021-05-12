@@ -39,4 +39,4 @@ icon: fas fa-circle
 
 ---
 
-
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/Oam-tool-disable-export.png)
