@@ -31,5 +31,6 @@ icon: fas fa-circle
 
 ---
 
-![Markdown Plus]({{site.baseurl}}
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/Oam-tool-export-tournament-and-match.png)
+
 
