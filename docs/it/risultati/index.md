@@ -15,3 +15,10 @@ icon: far fa-plus-square
 
 ---
 ![Markdown Plus]({{site.baseurl}}/public/images/risultati/Oam-tool-results.png)
+
+---
+
+<font size="3">All' interno della stessa pagina è possibile visualizzare gli eventi che non hanno ancora il risultato aggiornato. Per fare questo, basterà inserire la spunta accanto “Does not have results”. </font> 
+
+---
+
