@@ -1,7 +1,7 @@
 ---
 layout: it
 title: Quote base
-sort: 3
+sort: 1
 category: main
 icon: fas fa-circle
 ---
