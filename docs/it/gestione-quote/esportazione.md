@@ -33,4 +33,10 @@ icon: fas fa-circle
 
 ![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/Oam-tool-export-tournament-and-match.png)
 
+---
+
+<font size="3">Allo stesso modo, qualora l’utente non desiderasse esportare un determinato sport, categoria o torneo o partita, basterà cliccare sugli stessi tre puntini e selezionare “disable export of this tournament” come riportato qui di seguito.</font>
+
+---
+
 
