@@ -38,7 +38,7 @@ Rinominazione
 
  ![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/rename-tournament.png)
 
- ---
+ 
 
 
 
