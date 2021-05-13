@@ -21,9 +21,14 @@ icon: fas fa-circle
 
 ---
 
+![Markdown Plus]({{site.baseurl}}/public/images/risultati/macht result 2.png)
+
 <font size="3">Al fine di visualizzare nuovamente l'evento in quesitone nella sezione "Odds" occorre cliccare sull'occhio viola e scegliere "Restore".</font> 
 
 ---
+
+![Markdown Plus]({{site.baseurl}}/public/images/risultati/no results yet.png)
+
 
 
 
