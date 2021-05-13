@@ -29,7 +29,7 @@ Rinominazione
 
 ![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/rename-category.png)
 
--<font size="3">Rinominare Tornei</font>
+- <font size="3">Rinominare Tornei</font>
 
 ---
 
