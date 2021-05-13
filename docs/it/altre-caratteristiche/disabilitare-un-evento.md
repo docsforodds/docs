@@ -1,6 +1,6 @@
 ---
 layout: it
-title: Disabilitare un Evento
+title: Disabilitare un evento
 sort: 3
 category: altre-caratteristiche
 icon: fas fa-circle
