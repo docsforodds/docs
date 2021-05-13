@@ -32,3 +32,16 @@ icon: fas fa-circle
 
 
 ![Markdown Plus]({{site.baseurl}}/public/images/outrighs/outright-four.png)
+
+---
+
+
+![Markdown Plus]({{site.baseurl}}/public/images/outrighs/add-competitors-outright.png)
+
+---
+
+<font size="3">L’utente ha la possibilità di controllare manualmente i competitor accedendo all’interno della barra del menu> View>Checked Outrights.</font>
+
+---
+
+![Markdown Plus]({{site.baseurl}}/public/images/outrighs/checked-outrights.png)
