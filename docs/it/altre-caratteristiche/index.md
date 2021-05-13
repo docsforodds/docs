@@ -1,6 +1,6 @@
 ---
 layout: it
-title: Altre Caratteristiche
+title: altre-caratteristiche
 sort: 7
 category: main
 icon: far fa-plus-square
