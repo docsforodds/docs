@@ -22,4 +22,12 @@ icon: fas fa-circle
 
  ---
 
-![Markdown Plus]({{site.baseurl}}/public/images/
+ <font size="3">Una volta aver modificato l’orario, si potrà visualizzare accanto all’evento una “D”. Questa indica appunto che l’orario dell’evento è stato modificato. Per fare in modo che l’evento in questione segua gli aggiornamenti del feed, occorre cliccare sulla “D” e rimuoverla.</font> 
+
+---
+
+![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/date-locked.png)
+
+---
+
+![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/remove-date-locking.png)
