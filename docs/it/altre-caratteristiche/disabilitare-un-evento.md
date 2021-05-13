@@ -28,4 +28,4 @@ icon: fas fa-circle
 
 ---
 
-![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/
+![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/disable-event.png)
