@@ -11,3 +11,15 @@ icon: fas fa-circle
 
 
  <font size="3">Se l’utente desidera modificare manualmente la data e l’ora di un evento, basterà cliccare sui tre puntini situati accanto all’evento stesso e selezionare “Change date”. In questo modo si aprirà una finestra nella quale potrà effettuare la modifica.</font>
+
+ ---
+
+ ![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/change-date.png)
+
+ ---
+
+ ![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/changed-date.png)
+
+ ---
+
+![Markdown Plus]({{site.baseurl}}/public/images/
