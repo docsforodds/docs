@@ -2,7 +2,7 @@
 layout: it
 title: Modifica data e ora
 sort: 7
-category: altre-caratteristiche 
+category: Altre caratteristiche 
 icon: fas fa-circle
 ---
 <p class="message">
