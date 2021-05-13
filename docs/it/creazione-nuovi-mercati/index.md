@@ -32,7 +32,15 @@ Occorre ricordare che ogni volta che vengono creati nuovi eventi, questi eredite
  
  ---
 
- ![Markdown Plus]({{site.baseurl}}/public/images/it/creazione-nuovi-mercati/oddsview.png)
+ ![Markdown Plus]({{site.baseurl}}/creazione-nuovi-mercati/odds-view.png)
+ 
+ ---
+
+  <font size="3">Dopo aver inserito le quote base e aver effettuato l’aggiornamento delle stesse, saranno calcolate anche le altre quote derivate come si può notare qui di seguito.</font> 
+
+  ---
+
+  
 
  
 
