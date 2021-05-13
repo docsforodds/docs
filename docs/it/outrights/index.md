@@ -14,5 +14,21 @@ icon: fas fa-circle
 
  ---
 
- 
+ /![Markdown Plus]({{site.baseurl}}/public/images/outrighs/insert-new-outright.png)
 
+---
+
+![Markdown Plus]({{site.baseurl}}/public/images/outrighs/outright-two.png)
+
+---
+
+![Markdown Plus]({{site.baseurl}}/public/images/outrighs/outright-three.png)
+
+---
+
+<font size="3">L’utente ha la possibilità di inserire altri competitor già esistenti nella lista, accedendo nella sezione “Menage competitors”.</font>
+
+---
+
+
+![Markdown Plus]({{site.baseurl}}/public/images/outrighs/outright-four.png)
