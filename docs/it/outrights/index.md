@@ -14,7 +14,7 @@ icon: fas fa-circle
 
  ---
 
- /![Markdown Plus]({{site.baseurl}}/public/images/outrighs/insert-new-outright.png)
+ ![Markdown Plus]({{site.baseurl}}/public/images/outrighs/insert-new-outright.png)
 
 ---
 
