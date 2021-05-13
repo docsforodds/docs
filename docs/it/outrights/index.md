@@ -1,6 +1,6 @@
 ---
 layout: it
-title: Outrighs
+title: Outrights
 sort: 7
 category: main
 icon: fas fa-circle
