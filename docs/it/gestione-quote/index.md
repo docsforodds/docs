@@ -25,7 +25,7 @@ icon: fas fa-circle
 
 ---
 
-![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote//Users/v/Desktop/oam-docs/docs/public/images/gestione-quote/quote-base.png)
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/quote-base.png)
 
 
 
