@@ -10,12 +10,12 @@ icon: far fa-plus-square
 </p>
 
 
-<font size="3">All’interno della sezione Equalizers è possibile creare una regola in modo che due segni di due mercati diversi, rispettivamente con margine diverso, abbiano la stessa quota. Si dovrà, quindi specificare il mercato principale e quello che deriva da questo. È possibile utilizzare questa funzionalità, dal menù “Edit” –> “Equalizers”.
+<font size="3">All’interno della sezione Equalizers è possibile creare una regola in modo che due segni di due mercati diversi, rispettivamente con margine diverso, abbiano la stessa quota. Si dovrà, quindi specificare il mercato principale e quello che deriva da questo. È possibile utilizzare questa funzionalità, dal menù “Edit” –> “Equalizers”.</font>
 
 ---
  
 
- <font size="3">Successivamente occorre cliccare su “New” posizionato in alto a destra e apparirà la seguente finestra:
+ <font size="3">Successivamente occorre cliccare su “New” posizionato in alto a destra e apparirà la seguente finestra:</font>
 
  ---
 
