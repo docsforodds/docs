@@ -1,7 +1,7 @@
 ---
 layout: it
 title: Outrights
-sort: 8
+sort: 7
 category: main
 icon: fas fa-circle
 ---

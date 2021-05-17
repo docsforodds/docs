@@ -1,7 +1,7 @@
 ---
 layout: it
 title: Altre caratteristiche
-sort: 7
+sort: 8
 category: main
 icon: far fa-plus-square
 ---
