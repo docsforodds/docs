@@ -20,9 +20,6 @@ icon: fas fa-adjust
 ---
 ![Markdown Plus]({{site.baseurl}}/public/images/selection/Home_Tool.png)
 
-<p class="message">
-  
-</p>
 
 
 
