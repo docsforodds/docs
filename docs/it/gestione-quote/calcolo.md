@@ -2,7 +2,7 @@
 layout: it
 title: Calcolo
 sort: 3
-category: Quote base
+category: Funzionalità Generali
 icon: fas fa-circle
 ---
 <p class="message">
