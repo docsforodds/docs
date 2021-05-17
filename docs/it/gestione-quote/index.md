@@ -1,6 +1,6 @@
 ---
 layout: it
-title: Quote base
+title: Funzionalità Generali
 sort: 1
 category: main
 icon: fas fa-circle
