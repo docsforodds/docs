@@ -29,7 +29,6 @@ icon: fas fa-circle
 
 
 
-## Contenuti di questa sezione
 
 {% assign pages_list = site.pages | sort:"sort" %}
     {% for node in pages_list %}
