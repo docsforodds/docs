@@ -14,3 +14,8 @@ icon: fas fa-circle
 ---
 
 
+/![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/find-heavy-favourites.png)
+
+---
+
+![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/matches-with-heavy-favourites.png)
