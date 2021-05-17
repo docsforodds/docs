@@ -2,7 +2,7 @@
 layout: it
 title: Informazione mercato
 sort: 9
-category: Quote base
+category: Funzionalità Generali
 icon: fas fa-circle
 ---
 <p class="message">
