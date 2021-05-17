@@ -1,7 +1,7 @@
 ---
 layout: it
 title: Eventi
-sort: 2
+sort: 3
 category: main
 icon: far fa-plus-square
 ---

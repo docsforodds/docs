@@ -1,7 +1,7 @@
 ---
 layout: it
 title: Funzionalità Generali
-sort: 1
+sort: 2
 category: main
 icon: fas fa-circle
 ---
