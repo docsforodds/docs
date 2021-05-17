@@ -2,7 +2,7 @@
 layout: it
 title: Show Odds
 sort: 5
-category: Quote base
+category: Funzionalità Generali
 icon: fas fa-circle
 ---
 <p class="message">

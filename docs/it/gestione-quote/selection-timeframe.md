@@ -2,7 +2,7 @@
 layout: it
 title: Marginset/Selection Timeframe
 sort: 7
-category: Quote base
+category: Funzionalità Generali
 icon: fas fa-circle
 ---
 <p class="message">

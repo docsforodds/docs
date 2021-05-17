@@ -2,7 +2,7 @@
 layout: it
 title: Margini and Margin sets
 sort: 6
-category: Quote base
+category: Funzionalità Generali
 icon: fas fa-circle
 ---
 <p class="message">
