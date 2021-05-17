@@ -8,7 +8,7 @@ icon: fas fa-adjust
 <p class="message">
     
 </p>
-**1.1 Struttura base**
+**Struttura base**
 
 <font size="3">La pagina iniziale è composta da tre parti:</font>
 
