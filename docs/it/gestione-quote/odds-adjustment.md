@@ -43,4 +43,4 @@ icon: fas fa-circle
 <font size="3">Una volta aver selezionato l' Outcome desiderato, occorre impostare il valore in percentuale che si vorrebbe applicare. Successivamente sarà possibile decidere anche se utilizzare lo stesso Margine oppure no, per cui a seconda di quello che desidera l’utente, occorre selezionare o meno la spunta situata accanto a “Keep margin”. Un’altra funzionalità riguarda la possibilità di poter modificare di conseguenza anche le quote derivate e per fare ciò occorre inserire la spunta accanto a “Affect calculations”. In caso contrario si può eliminare la spunta dalla stessa. Per salvare le modifiche effettuate, bisogna cliccare sul tasto “Save”.</font>
 ---
 
-![Markdown Plus](http://10.10.3.166/images/3/30/Oam-tool-acfiorentina-odds-adjusted-saved.png)
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/all-data-saved.png)
