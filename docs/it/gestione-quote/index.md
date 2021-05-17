@@ -10,7 +10,7 @@ icon: fas fa-circle
 </p>
 
 
-<font size="3">All’interno del Tool sono presenti un numero significativo di funzionalità per l’utente. Tra le più importanti ci sono: la possibilità di controllare gli eventi impostando e modificando le loro quote, la creazione di quote nuove, la visualizzazione dei risultati degli eventi terminati e la possibilità di impostare le quote relative ai marcatori di un evento.</font>
+<font size="3">All’interno del Tool sono presenti un numero significativo di funzionalità per l’utente. Tra le più importanti ci sono la possibilità di controllare gli eventi impostando e modificando le loro quote, la creazione di quote nuove, la visualizzazione dei risultati degli eventi terminati e la possibilità di impostare le quote relative ai marcatori di un evento.</font>
 
 ---
 
