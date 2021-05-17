@@ -19,17 +19,17 @@ icon: far fa-plus-square
 
  ---
 
- - <font size="3">Main Market: occorre indicare l’ID del mercato principale;</font> 
+ -<font size="3">Main Market: occorre indicare l’ID del mercato principale;</font> 
 
- - <font size="3">Main sbv: occorre indicare, se presente, il relativo spread del mercato principale;</font> 
+ -<font size="3">Main sbv: occorre indicare, se presente, il relativo spread del mercato principale;</font> 
 
- - <font size="3">Main outcome: occorre indicare il relativo segno del mercato principale;</font> 
+ -<font size="3">Main outcome: occorre indicare il relativo segno del mercato principale;</font> 
 
- - <font size="3">Dep Market: occorre indicare l’ID del mercato derivato;</font> 
+ -<font size="3">Dep Market: occorre indicare l’ID del mercato derivato;</font> 
 
- - <font size="3">Dep sbv: occorre, se presente, il relativo spread del mercato derivato;</font> 
+ -<font size="3">Dep sbv: occorre, se presente, il relativo spread del mercato derivato;</font> 
 
- - <font size="3">Dep outcome: occorre indicare il segno derivato;</font> 
+ -<font size="3">Dep outcome: occorre indicare il segno derivato;</font> 
 
  ---
 
