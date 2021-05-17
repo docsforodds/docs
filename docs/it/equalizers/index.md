@@ -1,7 +1,7 @@
 ---
 layout: it
 title: Equalizers
-sort: 9
+sort: 10
 category: main
 icon: far fa-plus-square
 ---
