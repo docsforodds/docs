@@ -2,7 +2,7 @@
 layout: it
 title: Odds Adjustment
 sort: 4
-category: Quote base
+category: Funzionalità Generali
 icon: fas fa-circle
 ---
 

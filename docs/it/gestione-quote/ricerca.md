@@ -2,7 +2,7 @@
 layout: it
 title: Ricerca
 sort: 9
-category: Quote base
+category: Funzionalità Generali
 icon: fas fa-circle
 ---
 <p class="message">

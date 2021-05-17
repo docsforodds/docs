@@ -2,7 +2,7 @@
 layout: it
 title: Outrights
 sort: 16
-category: Quote base
+category: Funzionalità Gnerali
 icon: fas fa-circle
 ---
 <p class="message">
