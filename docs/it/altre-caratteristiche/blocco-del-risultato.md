@@ -9,7 +9,6 @@ icon: fas fa-circle
     
 </p>
 
----
 
 <font size="3">All’interno di questa sezione, l’utente può decidere se ricevere il risultato di un evento specifico in modo automatico oppure no. Infatti, è possibile bloccare l’aggiornamento del risultato proveniente dal feed e inserirlo manualmente. Questa operazione potrà essere effettuata selezionando i tre puntini situati accanto all’evento/outright e cliccando su “Block result for this match”.</font> 
 
