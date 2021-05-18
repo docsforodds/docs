@@ -11,6 +11,8 @@ icon: fas fa-adjust
 **Struttura base**
 
 <font size="3">La pagina iniziale è composta da tre parti:</font>
+---
+
 
 - <font size="3">Barra menu;</font>
 
