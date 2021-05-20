@@ -35,11 +35,11 @@ In questa finestra, dopo aver scelto lo sport desiderato, saranno presenti i mar
 <font size="3">Per poter aggiungere un nuovo margin set basta cliccare sul pulsante “New” posizionato in alto a destra nella schermata dei margin set. Una volta aver cliccato sul pulsante in questione, si aprirà una piccola finestra, all’interno della quale sarà possibile creare un nuovo margin set, selezionando lo sport desiderato.</font> 
 
  ---
- ![Markdown Plus](http://10.10.3.166/images/0/07/Oam-tool-select-sport.png)
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/select-sport.png)
 
 
 <font size="3">Per esempio, se viene impostato il margine 105% all’ interno della sezione “calcio”, tutte le categorie presenti, erediteranno il margine in questione. Tuttavia, è possibile selezionare un margine differente per una singola categoria. Infatti, non sempre tutti i tornei ereditano lo stesso margin set di livello superiore.</font> 
 
 ---
 
-![Markdown Plus](http://10.10.3.166/images/a/a8/Oam-tool-margini-scaled-balanced.png)
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/marginset-save.png)
