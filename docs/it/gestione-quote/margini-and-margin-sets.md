@@ -13,7 +13,7 @@ icon: fas fa-circle
 
  ---
 
-![Markdown Plus](http://10.10.3.166/images/5/5e/Oam-tool-quotefeed.png)
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/quote-feed-esportate.png)
 
 --- 
 
