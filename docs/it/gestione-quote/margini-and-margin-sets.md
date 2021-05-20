@@ -22,7 +22,7 @@ icon: fas fa-circle
 In questa finestra, dopo aver scelto lo sport desiderato, saranno presenti i margini di default per tutti i mercati e sarà possibile modificarli e memorizzarli cliccando il pulsante “Save”. Per ogni sport, categoria, torneo o evento, può essere impostato un set personalizzato di margini. Attraverso la sezione dedicata Edit-> Margins Sets è possibile creare e modificare i propri margin sets. Ogni mercato, se non diversamente specificato, utilizzerà il margine di default, altrimenti tramite l’apposita spunta “Edit Margin” sarà possibile specificare l’allibraggio desiderato oltre al tipo di distribuzione opportuna (Scaled <---> Balanced).</font> 
 ---
 
-![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/marginset-new-edit.png)
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/marginset-edit-default.png)
 
 
 <font size="3">Le funzioni presenti sono le seguenti: (le tre icone poste sotto “Actions”)</font> 
