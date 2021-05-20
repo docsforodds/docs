@@ -24,6 +24,7 @@ In questa finestra, dopo aver scelto lo sport desiderato, saranno presenti i mar
 
 ![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/marginset-new-edit.png)
 
+
 <font size="3">Le funzioni presenti sono le seguenti: (le tre icone poste sotto “Actions”)</font> 
 
 --- 
