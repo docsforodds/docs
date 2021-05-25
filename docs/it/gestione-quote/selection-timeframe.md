@@ -23,7 +23,7 @@ Per accedere in questa sezione, occorre cliccare su Home -> Edit -> Marginset/Se
 
 ---
 
- ![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/
+ ![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/new-rule-added.png)
 
 ---
 
@@ -31,4 +31,4 @@ Per accedere in questa sezione, occorre cliccare su Home -> Edit -> Marginset/Se
  
  ---
 
-![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/new-rule-added-two.png)
