@@ -15,7 +15,7 @@ Per accedere in questa sezione, occorre cliccare su Home -> Edit -> Marginset/Se
 
 ---
  
-![Markdown Plus](http://10.10.3.166/images/5/5e/Oam-tool-margin-selection-timeframe.png)
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/marginset-timeframe.png)
 
 ---
 
@@ -23,7 +23,7 @@ Per accedere in questa sezione, occorre cliccare su Home -> Edit -> Marginset/Se
 
 ---
 
- ![Markdown Plus](http://10.10.3.166/images/9/90/Oam-tool-margin-selection-timeframe-milan.png)
+ ![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/
 
 ---
 
@@ -31,4 +31,4 @@ Per accedere in questa sezione, occorre cliccare su Home -> Edit -> Marginset/Se
  
  ---
 
- ![Markdown Plus](http://10.10.3.166/images/a/ac/Oam-tool-timeframe-deactivation.png)
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/
