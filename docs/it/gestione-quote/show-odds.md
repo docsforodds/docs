@@ -13,7 +13,7 @@ icon: fas fa-circle
 
 ---
 
-![Markdown Plus]({{site.baseurl}}/public/images/public/images//gestione-quote/ Show-Odds.png)
+![Markdown Plus]({{site.baseurl}}/public/images/public/images/gestione-quote/Show-Odds.png)
 
 
 ---
