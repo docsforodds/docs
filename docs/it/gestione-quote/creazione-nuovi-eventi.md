@@ -30,14 +30,15 @@ Oam-tool-senza-quote.png
 
 <font size="3">Dopo aver inserito le quote base e aver effettuato l’aggiornamento delle stesse, saranno calcolate anche le altre quote derivate come si può notare qui di seguito.</font>
 
-Oam-tool-quote-aggiornate.png
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/senza-quote.png)
 
-Oam-tool-insert-new-torunament.png
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/quote-aggiunte.png)
 
-Oam-tool-insert-new-match.png
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/insert-new-tournament.png)
 
 <font size="3">New One Competitor Match</font>
 
 <font size="3">L’utente può creare un “one competitor match”. Qui di seguito vi riportiamo un esempio. L’esempio in questione è “Cristiano Ronaldo Win Ballon d’or”.</font>
 
 
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/insert-new-one-competitor.png)
