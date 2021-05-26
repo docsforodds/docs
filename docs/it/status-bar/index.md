@@ -27,4 +27,6 @@ icon: fas fa-circle
 
 <font size="3">Questi servizi sono segnalati attraverso una luce verde. Se l’utente dovesse visualizzare una di queste luci in rosso per più di 15 minuti, dovrà contattarci al fine di poter effettuare un controllo. Il problema potrebbe essere relativo ai file in coda.</font> 
 
- 
+ ---
+
+ ![Markdown Plus]({{site.baseurl}}/public/images/status-bar/status-bar.png)
