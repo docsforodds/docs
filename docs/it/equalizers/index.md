@@ -51,4 +51,4 @@ icon: far fa-plus-square
 
 ---
 
-![Markdown Plus]({{site.baseurl}}/public/equalizers/equalizers-three.png)
+![Markdown Plus]({{site.baseurl}}/public/images/equalizers/equalizers-three.png)
