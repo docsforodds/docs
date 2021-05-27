@@ -14,4 +14,4 @@ icon: fas fa-circle
  ---
 
 
-/![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/clear-odds-field.png)
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/clear-odds-field.png)
