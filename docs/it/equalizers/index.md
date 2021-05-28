@@ -22,7 +22,7 @@ icon: far fa-plus-square
 
  ---
 
- ![Markdown Plus]({{site.baseurl}}/public/equalizers/equalizers-two.png)
+ ![Markdown Plus]({{site.baseurl}}/public/images/equalizers/equalizers-two.png)
 
  ---
 
