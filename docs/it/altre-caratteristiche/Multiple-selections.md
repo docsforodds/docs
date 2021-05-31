@@ -24,7 +24,7 @@ icon: fas fa-circle
 
  ---
 
- ![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/selection-multipla-tre.png
+ ![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/selection-multipla-tre.png)
 
  ---
 
