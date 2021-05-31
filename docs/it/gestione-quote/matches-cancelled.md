@@ -25,4 +25,4 @@ icon: fas fa-circle
 
 ---
 
-![Markdown Plus]({{site.baseurl}}/gestione-quote/occhio-viole-two.png)
+![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/occhio-viola-two.png)
