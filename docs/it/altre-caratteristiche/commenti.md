@@ -18,7 +18,7 @@ icon: fas fa-circle
 
 ---
 
-/Users/v/Desktop/oam-docs/docs/public/images/altre-caratteristiche/commenti.png)
+![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/commenti.png)
 
 
 <font size="3">È possibile anche visualizzare la lista di tutti i commenti accedendo all’interno della barra del menu > View > Comment list.</font>
