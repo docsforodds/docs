@@ -8,7 +8,7 @@ category: main
     
 </p>
 
-Odds and More Documentation
+'<Odds and More Documentation>'
 
 ![Markdown Plus]({{site.baseurl}}/public/images/logo/logo-o-amd-more.png)
 
