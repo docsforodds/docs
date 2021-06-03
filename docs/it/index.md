@@ -11,7 +11,7 @@ category: main
 
  <font size="5">ODDS AND MORE DOCUMENTATION</font>
 
-<Odds and More Documentation>
+<Odds and more>
 
 
 
