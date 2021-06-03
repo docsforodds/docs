@@ -10,7 +10,7 @@ category: main
 
  <font size="5">Odds and More Documentation</font>
 
-                                                                  ![Markdown Plus]({{site.baseurl}}/public/images/logo/logo-o-amd-more.png)
+![Markdown Plus]({{site.baseurl}}/public/images/logo/logo-o-amd-more.png)
 
 
 
