@@ -12,7 +12,7 @@ category: main
 
 ![Markdown Plus]({{site.baseurl}}/public/images/logo/logo-o-amd-more.png)
 
-
+Welcome to Odds and More documentation. You can find a complete guide.
 
 
 
