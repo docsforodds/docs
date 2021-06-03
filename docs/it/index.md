@@ -4,10 +4,11 @@ title: Home
 sort: 0
 category: main
 ---
-<p class="odds">
+<p class="message">
     
 </p>
 
+Odds and More Documentation
 
 ![Markdown Plus]({{site.baseurl}}/public/images/logo/logo-o-amd-more.png)
 
