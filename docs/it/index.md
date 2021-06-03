@@ -11,7 +11,7 @@ category: main
 
 </ODDS AND MORE DOCUMENTATION>
 
-
+![Markdown Plus]({{site.baseurl}}/public/logo.png)
 
 
 
