@@ -4,12 +4,12 @@ title: Home
 sort: 0
 category: main
 ---
-<p class="message">
+<p class="
+ <font size="5"> ODDS AND MORE DOCUMENTATION</font> ">
    
 
 </p>
 
- <font size="5"> ODDS AND MORE DOCUMENTATION</font> 
 
 ![Markdown Plus]({{site.baseurl}}/public/logo.png)
 
