@@ -4,13 +4,12 @@ title: Home
 sort: 0
 category: main
 ---
-<p class="<font size="5">ODDS AND MORE DOCUMENTATION</font>">
+<p class="ODDS AND MORE DOCUMENTATION">
    
 </p>
 
 
-![Markdown Plus]({{site.baseurl}}/oam-docs/docs/public/logo.png)
-
+![Markdown Plus]({{site.baseurl}}/public/images/logo/logo-o-amd-more.png)
 
 
 
