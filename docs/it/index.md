@@ -9,7 +9,7 @@ category: main
 
 </p>
 
-</ODDS AND MORE DOCUMENTATION>
+ <font size="5"> ODDS AND MORE DOCUMENTATION</font> 
 
 ![Markdown Plus]({{site.baseurl}}/public/logo.png)
 
