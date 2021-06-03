@@ -9,7 +9,8 @@ category: main
 </p>
 
 
-![Markdown Plus]({{site.baseurl}}/public/logo.png)
+![Markdown Plus]({{site.baseurl}}/oam-docs/docs/public/logo.png)
+
 
 
 
