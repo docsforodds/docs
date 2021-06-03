@@ -4,8 +4,8 @@ title: Home
 sort: 0
 category: main
 ---
-<p class="ODDS AND MORE DOCUMENTATION">
-   
+<p class="odds">
+    
 </p>
 
 
