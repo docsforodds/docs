@@ -16,7 +16,9 @@ category: main
 
 ---
 
-![Markdown Plus]({{site.baseurl}}/public/images/logo/logo-o-amd-more.png)
+![Markdown Plus]({{site.baseurl}}/public/images/logo/logo-grigio.jpeg)
+
+
 
 
 
