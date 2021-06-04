@@ -8,7 +8,7 @@ category: main
     
 </p>
 
- '<<font size="5">Odds and More Documentation</font>>'
+ '<Odds and More Documentation>'
 
  ---
 
