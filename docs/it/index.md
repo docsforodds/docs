@@ -12,7 +12,7 @@ category: main
 
  ---
 
- <font size="3">Welcome to the official OddsAndMore documentation. This manual will guide you to make the best use of our Tool as we want you to understand and make use of all the functions available. If you still have any doubts, please do not hesitate to contact us on the following address and we will be more than happy to answer all of your questions: info@oddsandmore.com</font>
+ <font size="3">Benvenuti nella documentazione ufficiale di OddsAndMore. Il nostro manuale ha lo scopo di guidarvi al fine di utilizzare al meglio il nostro Tool perché noi abbiamo a cuore la corretta comprensione di tutte le funzionalità di cui lo stesso dispone. Se aveste ancora dubbi non esitate a contattarci al seguente indirizzo e saremo lieti di rispondere ad ogni vostra domanda: info@oddsandmore.com</font>
 
 ---
 
