@@ -1,7 +1,7 @@
 ---
 layout: en
 title: Introduction
-sort: 0
+sort: 2
 category: main
 ---
 <p class="message">

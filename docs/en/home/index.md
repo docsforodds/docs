@@ -1,7 +1,7 @@
 ---
 layout: en
 title: Home
-sort: 0
+sort: 1
 category: main
 ---
 <p class="message">
