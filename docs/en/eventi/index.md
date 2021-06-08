@@ -1,6 +1,6 @@
 ---
 layout: en
-title: Eventi
+title: Events
 sort: 3
 category: main
 icon: far fa-plus-square
