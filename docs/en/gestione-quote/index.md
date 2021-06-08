@@ -1,6 +1,6 @@
 ---
 layout: en
-title: Funzionalità Generali
+title: Overall Functions and Possibilities
 sort: 2
 category: main
 icon: fas fa-circle
@@ -10,18 +10,20 @@ icon: fas fa-circle
 </p>
 
 
-<font size="3">All’interno del Tool sono presenti un numero significativo di funzionalità per l’utente. Tra le più importanti ci sono la possibilità di controllare gli eventi impostando e modificando le loro quote, la creazione di quote nuove, la visualizzazione dei risultati degli eventi terminati e la possibilità di impostare le quote relative ai marcatori di un evento.</font>
+<font size="3">There are significant numbers of options enabled for user of this application. Controlling existing matches by setting and changing their odds, creating new ones, follow up with finished matches over results, setting odds for players in a match and optimizing export are the most important and used of all..</font>
 
 ---
 
 
- <font size="3">Dopo aver selezionato un torneo presente all’interno dell’albero di navigazione e dopo aver scelto l’evento desiderato, è possibile visualizzare le quote base dello stesso cliccando sull’evento.</font>
+ <font size="3">After viewing events from the selected tournament in the Tree, the odds for the base markets for that event can be viewed by selecting the event.</font>
 ---
 ![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/quote-base-one.png)
 
 ---
 
- <font size="3">Se le quote visualizzate sono soddisfacenti per l’utente, può lasciare tutto invariato. In caso contrario, l’utente può cliccare sull’icona “occhio verde” situata sulla destra dell’evento per aprire tutti i mercati dell’evento in questione. Nella parte superiore sono presenti le quote base dell’evento. Ogni sport ha il suo set di quote base che sono 1x2, Over/Under, Both Teams to score e Asian Totals 2,5. Queste quote base che arrivano dal feed si possono anche modificare manualmente e bloccarle con la spunta in alto a sinistra. In questo modo alla ricezione del feed successivo, le modifiche apportate rimarranno tali.</font>
+ <font size="3">If user is satisfied with the odds they can continue to navigate other events. If not, the user can click on the ‘Green eye’ icon on the right to open all markets of the event.In the upper part the, base odds for that match’s sport are isolated. Odds for almost all other types can be calculated from them and that is why they are named core or base. Each sport has its own sets of base and dependent types. The base odds allows the user to change the odds without blocking the feed. After pressing calculate odds the markets beneath will be calculated. After pressing update you will send the file with your new odds. (You can also click Calc + Update to calculate side markets and export the odds at one go)
+
+.</font>
 
 ---
 
