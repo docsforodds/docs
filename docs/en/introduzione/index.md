@@ -10,15 +10,15 @@ icon: fas fa-adjust
 </p>
 **Struttura base**
 
-<font size="3">La pagina iniziale è composta da tre parti:</font>
+<font size="3">Initial application consists of three basic parts:</font>
 ---
 
 
-- <font size="3">Barra menu;</font>
+- <font size="3">Menu Bar;</font>
 
-- <font size="3">Informazioni Utente;</font>
+- <font size="3">User Information;</font>
 
-- <font size="3">Albero di navigazione Sport>Category>Tournament;</font>
+- <font size="3">Tree part for navigation through sports and for choosing desired Leagues;</font>
 ---
 ![Markdown Plus]({{site.baseurl}}/public/images/selection/home-too-tre.png)
 
