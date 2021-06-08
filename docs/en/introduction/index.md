@@ -8,7 +8,7 @@ icon: fas fa-adjust
 <p class="message">
     
 </p>
-**Struttura base**
+**Basic Structure**
 
 <font size="3">Initial application consists of three basic parts:</font>
 ---
