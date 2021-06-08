@@ -1,5 +1,5 @@
 ---
-layout: it
+layout: en
 title: Introduzione
 sort: 1
 category: main
