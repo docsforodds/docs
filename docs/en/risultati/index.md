@@ -1,6 +1,6 @@
 ---
 layout: en
-title: Risultati
+title: Results
 sort: 6
 category: main
 icon: far fa-plus-square
@@ -11,14 +11,14 @@ icon: far fa-plus-square
 
 ---
 
-<font size="3">All’interno del Tool è possibile visualizzare i risultati relativi agli eventi. Per visualizzarli occorre accedere all’interno della Home e cliccare su “Results”. In questo modo si aprirà la pagina con la lista di tutti gli sport, scritti in verde, con le relative categorie, tornei e partite.</font> 
+<font size="3">In order to access the events of the results the user must click the ‘Load Finished’ tab and navigate through the Green Tree which is organised similarly to the Blue Tree with odds. Since there are more matches in it, now they are grouped by date within a single tournament. Results of an event can be viewed when clicking on the green eye.</font> 
 
 ---
 ![Markdown Plus]({{site.baseurl}}/public/images/risultati/Oam-tool-results.png)
 
 ---
 
-<font size="3">All' interno della stessa pagina è possibile visualizzare gli eventi che non hanno ancora il risultato aggiornato. Per fare questo, basterà inserire la spunta accanto “Does not have results”. </font> 
+<font size="3">You can view the events without updated results into "Does not have odds"section:. </font> 
 
 ---
 
