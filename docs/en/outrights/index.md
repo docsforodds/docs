@@ -26,7 +26,7 @@ icon: fas fa-circle
 
 ---
 
-<font size="3">L’utente ha la possibilità di inserire altri competitor già esistenti nella lista, accedendo nella sezione “Menage competitors”.</font>
+<font size="3">The user also has the option to change competitors for existing outrights by clicking ‘Manage competitors’ in the top right of the events page.</font>
 
 ---
 
@@ -40,7 +40,7 @@ icon: fas fa-circle
 
 ---
 
-<font size="3">L’utente ha la possibilità di controllare manualmente i competitor accedendo all’interno della barra del menu> View>Checked Outrights.</font>
+<font size="3">The User can also check the manually checked outrights by going to the menu bar and selectin View->Checked Outrights. Clicking the Event page icon will open the outright.</font>
 
 ---
 
