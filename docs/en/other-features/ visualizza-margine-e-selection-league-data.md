@@ -1,6 +1,6 @@
 ---
 layout: en
-title: Visualizza margine e selection league data
+title: View margin and selection league data
 sort: 3
 category: Other features
 icon: fas fa-circle
