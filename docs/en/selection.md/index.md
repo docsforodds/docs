@@ -24,10 +24,6 @@ icon: fas fa-circle
 - <font size="3">Clone settings of selected selection and generate new one;</font>
 - <font size="3">Delete selected selection;</font>
 
----
-
-
- ![Markdown Plus]({{site.baseurl}}/public/images/selection/modifica-clone-elimina.png)
 
 ---
 
