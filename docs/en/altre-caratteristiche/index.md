@@ -29,6 +29,8 @@ Renaming
 
 ![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/rename-category.png)
 
+---
+
 - <font size="3">Renaming Tournaments</font>
 
 ---
@@ -39,7 +41,7 @@ Renaming
  ![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/rename-tournament.png)
 
  ---
-<font size="3">Renaming Teams & Competitors</font>
+- <font size="3">Renaming Teams & Competitors</font>
 
 ---
 
@@ -51,7 +53,7 @@ Renaming
 
 ---
 
-<font size="3">Renaming Outrights</font>
+- <font size="3">Renaming Outrights</font>
 
 ---
 
@@ -67,7 +69,7 @@ Renaming
 
 ---
 
-<font size="3">Renaming Markets</font>
+- <font size="3">Renaming Markets</font>
 
 ---
 
