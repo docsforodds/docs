@@ -10,7 +10,7 @@ icon: fas fa-circle
 </p>
 
 
-<font size="3">All’interno del Tool è presente la sezione “Selection” con la quale è possibile selezionare i mercati per categoria, campionati ed eventi specifici, cliccando su Edit > Selections situato nella barra del menu. È possibile in questo modo aggiungere, modificare, rimuovere e clonare un mercato già esistente.</font>
+<font size="3">Here the user can choose which markets they want for specific categories, leagues and events. This is done by selecting Edit -> Selections from the menu bar. The user has the option to Add, Edit, Remove and clone and existing one.</font>
 ---
 
  ![Markdown Plus]({{site.baseurl}}/public/images/selection/selection-one.png)
@@ -24,8 +24,9 @@ icon: fas fa-circle
 
 ---
 
-<font size="3">Di seguito è stato inserito il campionato “England – Premier League (Inherited from sport)
-In questa sezione quindi sarà possibile selezionare e inserire i mercati desiderati. Si ha la possibilità di scegliere un mercato completo o solo una parte deello stesso, come ad esempio “Both Teams to Score” “Yes” “No”.  Nell’esempio qui di seguito è stato selezionato solo “Yes”.</font>
+<font size="3">After selecting ‘Add’ the user will choose for which sport they wish to add a new selection. Below we have chosen Soccer and named the Selection ‘Low Tier Leagues’. The user can search for all available markets in that chosen sport and tick the ones they wish for that specific selection. There is also the option to offer just one outcome from a market. Example in this case we selected just the ‘YES’ selection from the market both teams to score.
+
+After creating a new selection the user can choose it from the drop down on the top right of the window in match odds. This can be set for a whole sport, country, league or even a single event. Every one of them can override its parent’s setting. As you can see below the 3-way odds and both teams to score selection ‘YES’ are shown in blue whilst other markets which weren’t selected in the ‘Low Tier Leagues’ selection are shown in black in a filled grey box..</font>
 
 ---
 
