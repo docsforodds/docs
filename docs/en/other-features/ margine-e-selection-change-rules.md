@@ -1,6 +1,6 @@
 ---
 layout: en
-title: Margine e selection change rules
+title: Margin and selection change rules
 sort: 3
 category: Other features
 icon: fas fa-circle
