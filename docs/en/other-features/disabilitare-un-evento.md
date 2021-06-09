@@ -2,7 +2,7 @@
 layout: en
 title: Disabilitare un evento
 sort: 3
-category: Altre caratteristiche
+category: Other features
 icon: fas fa-circle
 ---
 <p class="message">

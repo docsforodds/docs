@@ -2,7 +2,7 @@
 layout: en
 title: Multiple selections
 sort: 7
-category: Altre caratteristiche 
+category: Other features 
 icon: fas fa-circle
 ---
 <p class="message">
