@@ -2,7 +2,7 @@
 layout: en
 title: Visualizza margine e selection league data
 sort: 3
-category: Altre caratteristiche
+category: Other features
 icon: fas fa-circle
 ---
 <p class="message">

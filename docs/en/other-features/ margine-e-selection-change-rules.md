@@ -2,7 +2,7 @@
 layout: en
 title: Margine e selection change rules
 sort: 3
-category: Altre caratteristiche
+category: Other features
 icon: fas fa-circle
 ---
 <p class="message">
