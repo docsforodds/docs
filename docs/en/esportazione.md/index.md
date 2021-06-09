@@ -1,6 +1,6 @@
 ---
 layout: en
-title: Esportazione
+title: Exporting
 sort: 5
 category: main
 icon: fas fa-circle
@@ -11,7 +11,7 @@ icon: fas fa-circle
 
 ---
 
- <font size="3">L’esportazione è quel processo che permette di inviare tutte le quote e i risultati dal tool all’interno del sistema dell’utente. Quindi, una volta terminata l’esportazione, le quote e i risultati saranno visibili all’interno del sistema dell’utente. Di solito questo processo avviene in modo automatico. L’utente ha la possibilità, però, di effettuare l’esportazione manualmente. Questa operazione sarà spiegata in seguito. Esportare un evento, significa che tutte le quote relative a quell’evento saranno visualizzate, in modo aggiornato, nel sistema dell’utente. Esportare un torneo, significa che tutte le partite presenti all’interno di quel torneo saranno esportate.</font>
+ <font size="3">Before explaining anything else, first the user must understand what Export means. All odds that are shown in the system, as well as all the results, in order to appear online, they have to be sent. We call that process Exporting. Most of the times, this is done automatically. The system knows that if the user changes the odds it has to export new values so that values online become those that were set. Users may sometimes want to export something manually which is also allowed and will be explained soon. Export Match means that all relevant odds as well as player odds, cards, goals and results (if exist) for that match are going to appear online and will be updated to current values that you see in the system. Export Tournament means that all matches from that tournament are going to be exported_. Export Category_ and Export Sport likewise.</font>
 
 ---
 
@@ -19,7 +19,7 @@ icon: fas fa-circle
 
 ---
 
-<font size="3">È possibile anche esportare una categoria oppure un intero sport. Tutte le modifiche apportate ad una partita, saranno esportate automaticamente. Tuttavia, è possibile effettuare tale operazione in modo manuale. Si può esportare manualmente interi tornei, categorie e interi sport, tranne il calcio a causa dell’enorme quantità di dati. Questo potrebbe causare il blocco del trasferimento delle quote. Una volta aver selezionato lo sport, la categoria o un torneo da esportare, basterà cliccare sui tre puntini situati sulla destra del torneo o della categoria in questione e selezionare “Export”. L’esportazione avverrà entro 45 secondi.</font>
+<font size="3">All changes that are made on a match will automatically set it for exporting. However, there is an option for doing so manually. Also, whole tournaments, categories and sports (except Soccer due to the huge amount of data that jam the odds transfer) can be exported this way too. When finding the entity for export in the tree, the user should click on the 3 dots next to the entity and choose Export option from the popup that will appear. Exporting will then be done within 45 seconds at most.</font>
 
 ---
 
@@ -35,7 +35,7 @@ icon: fas fa-circle
 
 ---
 
-<font size="3">Allo stesso modo, qualora l’utente non desiderasse esportare un determinato sport, categoria o torneo o partita, basterà cliccare sugli stessi tre puntini e selezionare “disable export of this tournament” come riportato qui di seguito.</font>
+<font size="3">If the user doesn’t want to send anymore files out of the system for a category or tournament they must disable the export. This is done clicking on the 3 dots next to the category or tournament and select ‘Disable export of this tournament’. This command will set the selected category or tournament from blue to red. This can be re- enabled using the same procedure.</font>
 
 ---
 
