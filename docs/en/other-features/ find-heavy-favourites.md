@@ -2,7 +2,7 @@
 layout: en
 title: Find heavy favourites
 sort: 3
-category: Altre caratteristiche
+category: other features
 icon: fas fa-circle
 ---
 <p class="message">
