@@ -10,14 +10,15 @@ icon: fas fa-circle
 </p>
 
 
-<font size="3">All’interno di questa sezione, l’utente può decidere se ricevere il risultato di un evento specifico in modo automatico oppure no. Infatti, è possibile bloccare l’aggiornamento del risultato proveniente dal feed e inserirlo manualmente. Questa operazione potrà essere effettuata selezionando i tre puntini situati accanto all’evento/outright e cliccando su “Block result for this match”.</font> 
+<font size="3">Here the user can decide that they do not want to receive the result of a specific event/outright from the feed and want to insert it manually. This can be done by selecting the 3 dots next to the event/outright.
+You can view the blocked events/outrights from the menu bar in Edit->Blocked Results. If you want the result of the event/outright to be resulted by the feed you can remove it from the list by selecting the icon..</font> 
 
 ---
 
 ![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/blocco-del-risultato.png)
  
 
-<font size="3">Per visualizzare gli eventi e gli outrights bloccati, basterà slezionare dalla bnarra del menu > Edit > Blocked results. Qualora l’utente volesse visualizzare il risultato proveniente dal feed, potrà rimuovere il blocco del risultato selezionando sulla barra del menu > Edit > blocked results > matches. In questo modo si aprirà una pagina con l’elenco degli eventi che hanno il risultato bloccato. Per cui basterà cliccare sull’icona “Delete” e cancellare l’evento da quella lista.</font> 
+<font size="3">To view the events and Outrights blocked, just select from the menu bar> Edit> Blocked results. If the user wants to view the result coming from the feed, he can remove the result block by selecting> Edit> blocked results> matches on the menu bar. This will open a page with the list of events that have the result blocked. So just click on the "Delete" icon and delete the event from that list.</font> 
 
 ---
 
