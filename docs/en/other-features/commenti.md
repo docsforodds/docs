@@ -1,6 +1,6 @@
 ---
 layout: en
-title: Commenti
+title: Comments
 sort: 3
 category: Other features
 icon: fas fa-circle
