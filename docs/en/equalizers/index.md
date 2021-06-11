@@ -10,7 +10,7 @@ icon: far fa-plus-square
 </p>
 
 
-<font size="3">All’interno della sezione Equalizers è possibile creare una regola in modo che due segni di due mercati diversi, rispettivamente con margine diverso, abbiano la stessa quota. Si dovrà, quindi specificare il mercato principale e quello che deriva da questo. È possibile utilizzare questa funzionalità, dal menù “Edit” –> “Equalizers”.</font>
+<font size="3">Within the Equalizers section you can create a rule so that two signs from two different markets, respectively with different margins, have the same share. It is therefore necessary to specify the main market and the one that derives from it. You can use this feature from the “Edit” -> “Equalizers” menu.</font>
 
 ---
  ![Markdown Plus]({{site.baseurl}}/public/images/equalizers/equalizers-one.png)
@@ -18,7 +18,7 @@ icon: far fa-plus-square
  ---
 
 
- <font size="3">Successivamente occorre cliccare su “New” posizionato in alto a destra e apparirà la seguente finestra:</font>
+ <font size="3">Then click on "New" located at the top right and the following window will appear:</font>
 
  ---
 
