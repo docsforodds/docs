@@ -1,6 +1,6 @@
 ---
 layout: en
-title: Informazione mercato
+title: Market information
 sort: 9
 category: Funzionalità Generali
 icon: fas fa-circle
@@ -9,7 +9,7 @@ icon: fas fa-circle
     
 </p>
 
-<font size="3"> È possibile visualizzare il significato e tutte le informazioni relative ad ogni mercato cliccando sulla “i” situata sulla destra delle quote di ogni mercato.</font> 
+<font size="3">If the user moves the mouse over the sign Information Source ℹ the will be provided with the market description and the market ID. This is available on every market.</font> 
 
  ---
 
