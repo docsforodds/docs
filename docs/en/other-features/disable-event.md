@@ -24,7 +24,7 @@ icon: fas fa-circle
 
 ---
 
-<font size="3">È possibile disabilitare tutti gli eventi presenti in un torneo cliccando sui tre puntini situati accanto al torneo e selezionando > Tournament offer types > Disable events.</font> 
+<font size="3">You can even set events as disabled for all events in a tournament by clicking on the 3 dots next to the tournament and selecting ‘tournament offer types’ -> ‘Disable events – On’. This will set all events in the chose tournament as disabled.</font> 
 
 ---
 
