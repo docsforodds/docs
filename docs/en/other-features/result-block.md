@@ -1,6 +1,6 @@
 ---
 layout: en
-title: Result block
+title: Block results
 sort: 3
 category: Other features
 icon: fas fa-circle
