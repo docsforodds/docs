@@ -46,9 +46,9 @@ Occorre ricordare che ogni volta che vengono creati nuovi eventi, questi eredite
 
   ![Markdown Plus]({{site.baseurl}}/public/images/it/creazione-nuovi-mercati/insert-new-match.png)
 
-  ---
+  
 
- 
+
  
 
 
