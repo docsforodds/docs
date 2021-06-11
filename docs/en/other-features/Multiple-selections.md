@@ -10,7 +10,7 @@ icon: fas fa-circle
 </p>
 
 
-<font size="3">Attraverso la selection multipla è possibile selezionare più sport, categorie, tornei o eventi e attivare contemporaneamente un’azione specifica come ad esempio l’esportazione o il cambio di margin set.</font>
+<font size="3">You can select multiple Sports/Categories/Tournaments and events and apply certain functions (such as exporting, changing margin and selection) for all at the same time. For Sports/Categories/Tournaments, this can be done by selecting the 3 dots they are placed vertically next the results tab. After selecting the required, you have to select the 3 vertical dots again and select the command you wish.</font>
 
 ---
 
@@ -20,7 +20,7 @@ icon: fas fa-circle
 
 ![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/export-selection-due.png)
 
-<font size="3"> Èpossibile attivare la selezione multipla anche nella pagina dove sono elencati gli eventi. Per farlo basta selezionare più eventi posizionando il mouse sugli eventi desiderati.  In questo modo compariranno le caselle accanto alla data di ogni evento e basterà spuntare l’evento desiderato. In questo modo compariranno i tre puntini sulla destra della pagina in questione e si potrà attivare la funzione desiderata, come ad esempio l’esportazione degli eventi.</font>
+<font size="3"> For selecting multiple events you have to select the 3 vertical dots placed next to the show odds tab. After clicking on ‘Select multiple’ you can choose which events you want and again select the 3 vertical dots to apply the required command for those selected events.</font>
 
  ---
 
