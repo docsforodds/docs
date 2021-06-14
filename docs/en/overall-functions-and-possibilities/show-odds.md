@@ -2,14 +2,14 @@
 layout: en
 title: Show Odds
 sort: 5
-category: Funzionalità Generali
+category: Overall functions and possibilities
 icon: fas fa-circle
 ---
 <p class="message">
   
 </p>
 
- <font size="3">Attraverso questa funzione l’utente può visualizzare tutti gli eventi del torneo selezionato e modificare le quote base. Una volta aver modificato le quote base ed aver effettuato l’aggiornamento cliccando sul tasto “Update”, tutti i mercati secondari di conseguenza, verranno calcolati aggiornati automaticamente.</font> 
+ <font size="3">With this feature the user can view all events of the selected tournament and edit the base odds simultaneously. When clicking update all the side markets will be calculated and updated automatically.</font> 
 
 ---
 
