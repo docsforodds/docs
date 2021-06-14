@@ -1,6 +1,6 @@
 ---
 layout: en
-title: Creazione nuovi eventi
+title: Creating new events
 sort: 9
 category: main
 icon: far fa-plus-square
