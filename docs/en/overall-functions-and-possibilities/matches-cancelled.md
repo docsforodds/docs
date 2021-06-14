@@ -2,26 +2,26 @@
 layout: en
 title: Matches Cancelled
 sort: 14
-category: Funzionalità Generali
+category: Overall functions and possibilities
 icon: fas fa-circle
 ---
 <p class="message">
     
 </p>
 
-<font size="3">I matches cancelled si riferiscono a quegli eventi che non vengono disputati oppure vengono interrotti. In tal caso saranno visualizzati nell'apposita sezione "Result" con la dicitura "matches Cancelled".</font>
+<font size="3">The matches cancelled are the events that are not played or are interrupted. In this case they will be displayed in the "Result" section like "Matches Cancelled".</font>
 
 ---
 ![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/matches-cancelled.png)
 
 ---
 
-<font size="3">Gli stessi potrebbero ricevere un aggiornamento relativo alla data e orario in cui verranno disputati da parte del feed provider. Per questo motivo si potranno visualizzare gli eventi con un occhio viola sempre all'interno della sezione "Result".</font>
+<font size="3">The matches cancelled could receive from Feed provider an update regarding date and time. In this case you will view the events with a purple eye into the "Result" section.</font>
 
 ---
 ![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/occhio-viola.png)
 
-<font size="3">Al fine di visualizzare nuovamente l'evento in quesitone nella sezione "Odds" occorre cliccare sull'occhio viola e scegliere "Restore".</font>
+<font size="3">If you want to see the match into "Odds" section, you can click on purple eye and you should click on "Restore".</font>
 
 ---
 
