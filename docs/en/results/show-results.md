@@ -2,7 +2,7 @@
 layout: en
 title: Show Results
 sort: 2
-category: Risultati
+category: Results
 icon: fas fa-circle
 ---
 <p class="message">
