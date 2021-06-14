@@ -1,0 +1,17 @@
+---
+layout: it
+title: Visualizza margini e selection league data
+sort: 3
+category: altre caratteristiche
+icon: fas fa-circle
+---
+<p class="message">
+    
+</p>
+
+<font size="3">Here the user can view the ‘Margin Set and Selection’ data for all the Leagues for all sports. This is very useful because after setting all the leagues with their specific margin set or selection, you can view this data in this window and even export it in an excel file. This can be found in the menu bar in View->Margin and selection league data.</font> 
+
+---
+
+![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/marg-sel-league-data.png)
+
