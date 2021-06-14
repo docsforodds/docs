@@ -10,20 +10,20 @@ icon: far fa-plus-square
 </p>
 
 
-Renaming
+Rinominazione
 
 ---
 
 
-<font size="3">The user has the option to rename Categories/Tournaments/Teams/Competitors/Outrights and also markets</font>
+<font size="3">L’utente può rinominare Categorie/Tornei/Squadre/Competitors/Outrights/Mercati.</font>
 
 ---
 
-- <font size="3">Renaming Categories</font> 
+- <font size="3">Rinominazione Categorie</font> 
 
 ---
 
-<font size="3">To rename a category the user must click on the 3 dots next to required category and select ‘Rename Category’.</font> 
+<font size="3">Per rinominare una categoria, basterà cliccare sui tre puntini posizionati accanto alla categoria scelta e selezionare “Rename”.</font> 
 
 ---
 
@@ -31,21 +31,21 @@ Renaming
 
 ---
 
-- <font size="3">Renaming Tournaments</font>
+- <font size="3">Rinominazione Tornei</font>
 
 ---
 
-<font size="3">To rename a tournament the user must click on the 3 dots next to required tournament and select ‘Rename Tournament’</font>
+<font size="3">Per rinominare un Torneo, basterà cliccare sui tre puntini posizionati accanto al torneo scelto e selezionare “Rename”.</font>
 
 
  ![Markdown Plus]({{site.baseurl}}/public/images/altre-caratteristiche/rename-tournament.png)
 
  ---
-- <font size="3">Renaming Teams & Competitors</font>
+- <font size="3">Rinominazione Teams & Competitors</font>
 
 ---
 
-<font size="3">To rename a Team/Competitor the user must go to the menu bar and select Edit->Team Names. This will open a new window with the list of all the teams and competitors. Here the user can change the names which will block the updates from the feed. You can filter by Sport/Category and tournament or search for names directly. As you can see in the image below, ‘Real Madrid’ was changed to ‘Real Madrid CF’.</font>
+<font size="3">Per rinominare una Squadra/Competitor, l’utente dovrà accedere all’interno della barra del menu e selezionare Edit> Team names. In questo modo si aprirà una finestra con la lista di tutte le squadre e di tutti i Competitors. In questa finestra, una volta aver modificato il nome di una squadra o di un competitor, gli aggiornamenti provenienti dal feed saranno di conseguenza bloccati. È possibile anche filtrare per sport, categoria o torneo ed effettuare la ricerca inserendo il nome.</font>
 
 ---
 
@@ -53,11 +53,11 @@ Renaming
 
 ---
 
-- <font size="3">Renaming Outrights</font>
+- <font size="3">Rinominazione Outrights</font>
 
 ---
 
-<font size="3">To rename an outright the user must click on the 3 dots next to required outright and select ‘Change outright name’.</font>
+<font size="3">È possibile rinominare un Outright cliccando sui tre puntinti situati accanto ad un outright e cliccando su “Change outright name”.</font>
 
 ---
 
@@ -69,11 +69,11 @@ Renaming
 
 ---
 
-- <font size="3">Renaming Markets</font>
+- <font size="3">Rinominazione Mercati</font>
 
 ---
 
-<font size="3">To rename a market the user must click on the 3 dots next to required market and select ‘Rename Market’.</font>
+<font size="3">Rinominare un mercato Per rinominare un mercato, basterà cliccare sui tre puntini situati accanto al mercato desiderato e cliccare su “Rename market”.</font>
 
 ---
 
