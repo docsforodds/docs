@@ -9,7 +9,7 @@ icon: fas fa-circle
     
 </p>
 
-<font size="3">This feature is used to find events where one of the 2 teams is a high favourite. To do this the user must click on the 3 dots next to the sport, category or league and select ‘Find heavy favourites’. This will open a new window with the option to set a border value. According to the odds you write in the border value, this feature will provide you the list of events with that odd and lower (on 3way market).When selecting the ‘open event page’ icon on the match from the list it will direct you to the odds panel of the match.</font>
+<font size="3">La funzione “Find heavy favourites” viene utilizzata per trovare eventi nei quali uno delle due squadre è la favorita. Per fare ciò, l’utente dovrà cliccare sui tre puntini situati accanto a sport, categoria o campionato e selezionare “Find heavy favourites” come mostrato qui di seguito. In questo modo si aprirà una nuova finestra all’interno della quale sarà possibile impostare il “Valore limite” (Border value). In base alle quote che vengono inserite all’interno del “valore limite”, questa funzione fornirà l’elenco degli eventi che avranno come quota, un valore pari e inferiore al limite inserito.</font>
 
 ---
 
