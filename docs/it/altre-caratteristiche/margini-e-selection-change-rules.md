@@ -10,7 +10,7 @@ icon: fas fa-circle
 </p>
 
 
-<font size="3">With this feature the user can decide to set a rule for changing margin sets and selection automatically according to the rules set. This is found in the menu bar from Edit->Margin and selection change rules. A new window will open with the option to set a new rule or view current rules. In the below example we added a rule for all soccer to automatically set events (which have the 3-way and O/U 2.5 odds below 1.05) to use the selection ‘3way only’. You can edit or delete current rules, or even create a rule for a specific category or tournament that will override the settings of the parent level.</font> 
+<font size="3">Attraverso questa funzione, l’utente può impostare una regola che permetterà di modificare automaticamente i margin set e la selection a seconda delle regole impostate. Questa operazione potrà essere effettuata accedendo all’interno del menu e selezionando > Edit > Margin and selection change rules. In questo modo si aprirà una pagina all’interno della quale si potrà cliccare sul tasto situato in alto a destra “Add rule”. Successivamente si aprirà una finestra dove si potrà inserire il margine e la selection desiderata.</font> 
 
 ---
 
