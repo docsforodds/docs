@@ -1,6 +1,6 @@
 ---
 layout: en
-title: Modifica data e ora
+title: Change data and time
 sort: 7
 category: Other features
 icon: fas fa-circle
