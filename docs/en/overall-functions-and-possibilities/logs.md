@@ -2,7 +2,7 @@
 layout: en
 title: Logs
 sort: 2
-category: Funzionalità Generali
+category: Overall Functions and Possibilities
 icon: fas fa-circle
 ---
 <p class="message">

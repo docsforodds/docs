@@ -2,7 +2,7 @@
 layout: en
 title: Odds Adjustment
 sort: 4
-category: Overall functions and possibilities
+category: Overall Functions and Possibilities
 icon: fas fa-circle
 ---
 

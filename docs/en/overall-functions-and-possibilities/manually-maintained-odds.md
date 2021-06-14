@@ -2,7 +2,7 @@
 layout: en
 title: Manually Maintained Odds
 sort: 1
-category: Overall functions and possibilities
+category: Overall Functions and Possibilities
 icon: fas fa-circle
 ---
 <p class="message">

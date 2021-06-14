@@ -2,7 +2,7 @@
 layout: en
 title: Schede Quote
 sort: 8
-category: Funzionalità Generali
+category: Overall Functions and Possibilities
 icon: fas fa-circle
 ---
 <p class="message">
