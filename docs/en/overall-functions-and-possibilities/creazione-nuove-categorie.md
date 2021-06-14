@@ -1,18 +1,18 @@
 ---
 layout: en
-title: Creazione Nuove Categorie
+title: Creating New Category
 sort: 15
-category: Funzionalità Generali
+category: Overall Functions and Possibilities
 icon: fas fa-circle
 ---
 <p class="message">
     
 </p>
 
-<font size="3">È possibile creare nuove categorie, nuovi tornei, nuovi eventi o nuovi Outrights. Per inserire una nuova categoria, basterà cliccare sui tre puntini situati alla destra dello sport e selezionare “Insert new category”. Allo stesso modo per inserire nuovi tornei oopure nuovi eventi o Outrights.</font>
+<font size="3">Users can create new categories, tournaments, matches, one-competitor matches and outrights (See outrights in section (8)). Parent hierarchy is followed here, so in order to insert a category that belongs to some sport, the user must click the 3 dots next to the chosen sport and select ‘Insert new category’. In the window that appears, the name of the category that is being created should be entered. User can stop here and just click Insert OR add new tournament into the category by writing its name. Again, you can insert now, OR you can choose to insert a match into the above tournament at once. If you choose that, fill all the necessary match details which are teams and date & time. You can choose the teams from drop down menu or create your own by clicking the + sign(this will be saved with the list). When done click insert. The Blue Tree with events will be updated automatically and you will see your newly added events. It is important to bear in mind that when creating new events they will inherit their parent’s settings for margins and selections.</font>
 
 ---
-<font size="3">Occorre ricordare che ogni volta che vengono creati nuovi eventi, questi erediteranno i margini di livello superiore.</font>
+<font size="3">When clicking the ‘black eye’ (which indicates that the event does not have any odds), the event page will open so that you can insert the odds manually.</font>
 
 ---
 
@@ -26,19 +26,13 @@ icon: fas fa-circle
 
 <font size="3">Quando viene visualizzato l’icona “occhio nero” accanto ad un evento, vuol dire che l’evento in quesitone non ha le quote inserite, per cui sarà possibile inserirle manualmente. Occorre cliccare sul tasto “show odds” e sarà visualizzata la pagina con le relative caselle dove inserire le quote base. Una volta aver inserito le quote base, basterà cliccare su “calc+ update”.</font>
 
-Oam-tool-senza-quote.png
+---
 
-<font size="3">Dopo aver inserito le quote base e aver effettuato l’aggiornamento delle stesse, saranno calcolate anche le altre quote derivate come si può notare qui di seguito.</font>
+
+<font size="3">After inserting the base odds and clicking ‘Calc + Update’ you will receive the event with all the active side markets</font>
 
 ![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/senza-quote.png)
 
 ![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/quote-aggiunte.png)
 
 ![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/insert-new-tournament.png)
-
-<font size="3">New One Competitor Match</font>
-
-<font size="3">L’utente può creare un “one competitor match”. Qui di seguito vi riportiamo un esempio. L’esempio in questione è “Cristiano Ronaldo Win Ballon d’or”.</font>
-
-
-![Markdown Plus]({{site.baseurl}}/public/images/gestione-quote/insert-new-one-competitor.png)

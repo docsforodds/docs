@@ -1,6 +1,6 @@
 ---
 layout: en
-title: Creating new events
+title: Creating new categories/tournaments/events
 sort: 9
 category: main
 icon: far fa-plus-square

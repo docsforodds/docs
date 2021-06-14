@@ -2,7 +2,7 @@
 layout: en
 title: New one Competitor Match
 sort: 2
-category: Creazione nuovi mercati
+category: Creating new categories/tournaments/events
 icon: fas fa-circle
 ---
 <p class="message">
