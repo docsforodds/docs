@@ -2,7 +2,7 @@
 layout: en
 title: Margin and Margin sets
 sort: 6
-category: Funzionalità Generali
+category: Overall functions and possibilities
 icon: fas fa-circle
 ---
 <p class="message">
