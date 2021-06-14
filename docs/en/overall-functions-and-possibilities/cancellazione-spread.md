@@ -2,7 +2,7 @@
 layout: en
 title: Cancellazione spread
 sort: 11
-category: Funzionalità Generali
+category: Overall Functions and Possibilities
 icon: fas fa-circle
 ---
 <p class="message">
