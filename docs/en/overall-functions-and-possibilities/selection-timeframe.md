@@ -2,16 +2,18 @@
 layout: en
 title: Marginset/Selection Timeframe
 sort: 7
-category: Funzionalità Generali
+category: Overall functions and possibilities
 icon: fas fa-circle
 ---
 <p class="message">
 
 </p>
 
-<font size="3">Una delle funzionalità presenti all’interno del tool è il “Marginset/Selection Timeframe” con la quale è possibile aggiungere una o più regole in modo da cambiare in automatico Marginset e/o Selection selezionando un determinato intervallo temporale. Tale regole possono essere create e applicate ad un qualsiasi livello: Sport, Categoria, Torneo, Evento.
+<font size="3">One of the features is the "Marginset /Selection Timeframe" with which the user can add one or more rules in order to automatically change Marginset and / or Selection by selecting a certain time interval. These rules can be created and applied at any level: Sport, Category, Tournament, Event.
 
-Per accedere in questa sezione, occorre cliccare su Home -> Edit -> Marginset/Selection Timeframe. Una volta aver selezionato il livello desiderato, basterà cliccare su “New” situato in alto a destra della pagina e si aprirà una finestra all’interno della quale sarà possibile selezionare il Marginset o/e Selection e l’intervallo di tempo in cui verrà applicata tale regola.</font>
+ 
+
+To access this section, click on Home -> Edit -> Marginset / Selection Timeframe. Once you have selected the desired level, just click on "New" located at the top right of the page and a window will open in which you can select the Marginset or / and Selection and the time interval in which it will be applied that rule.</font>
 
 ---
  
@@ -19,7 +21,7 @@ Per accedere in questa sezione, occorre cliccare su Home -> Edit -> Marginset/Se
 
 ---
 
-<font size="3">In questo caso è stato selezionato l’evento AC Milan - Juventus Dopo aver scelto la fascia oraria, il margine e la selection, si cliccherà su “Add”.Qualora si selezionasse “24H” vorrà dire che quel margine o quella selection inserita, sarà valida per quella fascia oraria.</font>
+<font size="3">In this case, the AC Milan - Juventus event has been selected. After choosing the time slot, the margin and the selection, click on "Add". If you select "24H" it means that that margin or that selection inserted will be valid for that time slot.</font>
 
 ---
 
@@ -27,7 +29,7 @@ Per accedere in questa sezione, occorre cliccare su Home -> Edit -> Marginset/Se
 
 ---
 
- <font size="3"> Una volta aver aver attivato questa regola, si visualizzerà accanto all’evento, un’icona a forma di orologio di colore verde. Per poter disattivare la regola, basterà cliccare sull’icona e successivamente la stessa sarà visualizzata di colore grigio.</font> 
+ <font size="3"> Once you have activated this rule, a green clock icon will appear next to the event. In order to disable the rule, just click on the icon and then it will be displayed in grey.</font> 
  
  ---
 
