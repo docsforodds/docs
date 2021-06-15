@@ -7,7 +7,7 @@ icon: fas fa-circle
 ---
 
 
-<font size="3">AInto the Tool there is a function called “Odds Adjustment”. In this way is possible to change the odds, modifying it by a certain percentage. You can select the event and you can click on the three dots located at the top right of the page, as you can see below:</font>
+<font size="3">Into the Tool there is a function called “Odds Adjustment”. In this way is possible to change the odds, modifying it by a certain percentage. You can select the event and you can click on the three dots located at the top right of the page, as you can see below:</font>
 
 ---
 
