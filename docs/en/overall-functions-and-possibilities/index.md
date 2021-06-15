@@ -10,7 +10,7 @@ icon: fas fa-circle
 </p>
 
 
-<font size="3">There are significant numbers of options enabled for user of this application. Controlling existing matches by setting and changing their odds, creating new ones, follow up with finished matches over results, setting odds for players in a match and optimizing export are the most important and used of all..</font>
+<font size="3">There are significant numbers of options enabled for user of this application. Controlling existing matches by setting and changing their odds, creating new ones, follow up with finished matches over results, setting odds for players in a match and optimizing export are the most important and used of all.</font>
 
 ---
 
