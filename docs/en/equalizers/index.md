@@ -41,7 +41,7 @@ icon: far fa-plus-square
 
  ---
 
-<font size="3">Infine cliccare su “Add”.E' possibile anche attivare o disattivare questa regola, semplicemente inserendo o togliendo la spunta all’interno del quadratino Active/Inactive. E' possibile anche modificarla o eliminarla, cliccando sulle icone “Edit” o sull’icona del cestino.</font>
+<font size="3">In the end you can click on "Add".If you want to start or disable this rule, you can remove the flag from the section "Active/inactive".You can edit or remove it clicking on the icone "Edit" or on the icon "spam".</font>
 
 
 ![Markdown Plus]({{site.baseurl}}/public/images/equalizers/equalizers-three.png)
