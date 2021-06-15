@@ -21,7 +21,7 @@ icon: fas fa-circle
 
 ---
 
- <font size="3">If user is satisfied with the odds they can continue to navigate other events. If not, the user can click on the ‘Green eye’ icon on the right to open all markets of the event.In the upper part the, base odds for that match’s sport are isolated. Odds for almost all other types can be calculated from them and that is why they are named core or base. Each sport has its own sets of base and dependent types. The base odds allows the user to change the odds without blocking the feed. After pressing calculate odds the markets beneath will be calculated. After pressing update you will send the file with your new odds. (You can also click Calc + Update to calculate side markets and export the odds at one go)
+ <font size="3">If user is satisfied with the odds they can continue to navigate other events. If not, the user can click on the ‘Green eye’ icon on the right to open all markets of the event.In the upper part the base odds for that match’s sport are isolated. Odds for almost all other types can be calculated from them and that is why they are named core or base. Each sport has its own sets of base and dependent types. The base odds allows the user to change the odds without blocking the feed. After pressing calculate odds the markets beneath will be calculated. After pressing update you will send the file with your new odds. (You can also click Calc + Update to calculate side markets and export the odds at one go)
 
 .</font>
 
