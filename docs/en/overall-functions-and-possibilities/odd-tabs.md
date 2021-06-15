@@ -9,7 +9,7 @@ icon: fas fa-circle
 
 </p>
 
-<font size="3">Per alcuni sport è possibile dividere le quote in diverse schede, al fine di migliorare l’organizzazione delle stesse. L’utente potrà cliccare sui 3 puntini situati in alto a destra dell’evento e selezionare “Transfer Market”.</font>
+<font size="3">For some sports, odds types are divided into different tabs. This is done just to improve the overall organisation. The user has the option to click on the 3 dots located on the top right-hand side of the market and clicking ‘Transfer market’.</font>
 
 ---
 
