@@ -50,11 +50,6 @@ icon: far fa-plus-square
 
   <font size="3">As mentioned before the user has the option to create just the category, than just the tournament, than just the match.</font>
 
----
-
- <font size="3">New One Competitor Match</font>
-
----
 
  
 
