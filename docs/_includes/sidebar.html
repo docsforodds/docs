@@ -4,37 +4,41 @@
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
+  <ul>
+    <nav class="sidebar-nav">
+      {% comment %}
+      The code below dynamically generates a sidebar nav of pages with
+      `layout: en` in the front-matter. See readme for usage.
+      {% endcomment %}
 
-  <nav class="sidebar-nav">
-    {% comment %}
-    The code below dynamically generates a sidebar nav of pages with
-    `layout: en` in the front-matter. See readme for usage.
-    {% endcomment %}
+      {% assign pages_list = site.pages | sort:"sort" %}
+      {% for node in pages_list %}
+      {% if node.title != null %}
+      {% if node.layout == "en" %}
+      {% if node.category == "main" %}
+      <li class=" {% if page.url contains node.url%} active{% endif %}"></li>
+      <a class="sidebar-nav-item {% if page.url contains node.url%} active{% endif %}"
+        href="{{site.baseurl}}{{ node.url }}">{{
+        node.title }}</a>
+      <ul>
+        {% for item in pages_list %}
+        {% if item.title != null %}
+        {% if item.layout == "en" %}
+        {% if item.category == node.title %}
+        <li class="sub-item"> <a class="sub-item sidebar-nav-item{% if page.url == item.url %} active{% endif %}"
+            href="{{site.baseurl}}{{ item.url }}"><i class="{{ item.icon }}"></i>{{ item.title }}</a></li>
+        {% endif %}
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+      </ul>
+      {% endif %}
+      {% endif %}
+      {% endif %}
+      {% endfor %}
 
-    {% assign pages_list = site.pages | sort:"sort" %}
-    {% for node in pages_list %}
-    {% if node.title != null %}
-    {% if node.layout == "en" %}
-    {% if node.category == "main" %}
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}{{ node.url }}">{{
-      node.title }}</a>
-    {% for item in pages_list %}
-    {% if item.title != null %}
-    {% if item.layout == "en" %}
-    {% if item.category == node.title %}
-    <a class="sub-item sidebar-nav-item{% if page.url == item.url %} active{% endif %}"
-      href="{{site.baseurl}}{{ item.url }}"><i class="{{ item.icon }}"></i>{{ item.title }}</a>
-    {% endif %}
-    {% endif %}
-    {% endif %}
-    {% endfor %}
-    {% endif %}
-    {% endif %}
-    {% endif %}
-    {% endfor %}
-
-  </nav>
-
+    </nav>
+  </ul>
   <div class="sidebar-item">
     <p>
       v{{ site.version }}

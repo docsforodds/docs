@@ -4,42 +4,50 @@
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
+  <ul>
+    <nav class="sidebar-nav">
+      {% comment %}
+      The code below dynamically generates a sidebar nav of pages with
+      `layout: it` in the front-matter. See readme for usage.
+      {% endcomment %}
 
-  <nav class="sidebar-nav">
-    {% comment %}
-    The code below dynamically generates a sidebar nav of pages with
-    `layout: it` in the front-matter. See readme for usage.
-    {% endcomment %}
+      {% assign pages_list = site.pages | sort:"sort" %}
+      {% for node in pages_list %}
+      {% if node.title != null %}
+      {% if node.layout == "it" %}
+      {% if node.category == "main" %}
+      <li class=" {% if page.url contains node.url%} active{% endif %}">
+        <a class="sidebar-nav-item {% if page.url contains node.url%} active{% endif %}"
+          href="{{site.baseurl}}{{ node.url }}">
+          {{node.title }} </a>
+        <ul>
+          {% for item in pages_list %}
+          {% if item.title != null %}
+          {% if item.layout == "it" %}
+          {% if item.category == node.title %}
 
-    {% assign pages_list = site.pages | sort:"sort" %}
-    {% for node in pages_list %}
-    {% if node.title != null %}
-    {% if node.layout == "it" %}
-    {% if node.category == "main" %}
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}{{ node.url }}">{{
-      node.title }}</a>
-    {% for item in pages_list %}
-    {% if item.title != null %}
-    {% if item.layout == "it" %}
-    {% if item.category == node.title %}
-    <a class="sub-item sidebar-nav-item{% if page.url == item.url %} active{% endif %}"
-      href="{{site.baseurl}}{{ item.url }}"><i class="{{ item.icon }}"></i>{{ item.title }}</a>
-    {% endif %}
-    {% endif %}
-    {% endif %}
-    {% endfor %}
-    {% endif %}
-    {% endif %}
-    {% endif %}
-    {% endfor %}
+          <li class="sub-item">
+            <a class="sub-item sidebar-nav-item{% if page.url == item.url %} active{% endif %}"
+              href="{{site.baseurl}}{{ item.url }}"><i class="{{ item.icon }}"></i>{{ item.title }}</a>
+          </li>
+          {% endif %}
+          {% endif %}
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </li>
+      {% endif %}
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+    </nav>
+    </nav>
 
-  </nav>
-
-  <div class="sidebar-item">
-    <p>
-      v{{ site.version }}
-      <br>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
-    </p>
-  </div>
+    <div class="sidebar-item">
+      <p>
+        v{{ site.version }}
+        <br>
+        &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      </p>
+    </div>
 </div>
