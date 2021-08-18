@@ -15,6 +15,8 @@ swtich into project root
 
     cd oam-docs
     docker-compose -f jekyll/docker-compose.yml up
+    or
+    docker compose -f jekyll/docker-compose.yml up
 
 Wait the container has fineshed to download all gem packages. It can take up to 20 minutes. You can see in the console the message
 
